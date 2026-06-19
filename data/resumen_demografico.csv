@@ -1,0 +1,27 @@
+dimension,categoria,casos
+Sexo,Masculino,16409
+Sexo,Femenino,4313
+Sexo,Sin determinar,11
+Grupo etario,Joven (18-29),5522
+Grupo etario,Adulto (30-44),5107
+Grupo etario,Adulto mayor (45-64),4336
+Grupo etario,Mayor (65+),3052
+Grupo etario,Adolescente (≤17),2716
+Modalidad,Ahorcamiento,14139
+Modalidad,Arma de fuego,3322
+Modalidad,Sin determinar,1217
+Modalidad,Se arroja al vacío,715
+Modalidad,Envenenamiento,550
+Modalidad,Arma blanca /  elemento cortante,256
+Modalidad,Se arroja a las vías de FF.CC.,208
+Modalidad,Sumersión en piscina / mar / río,153
+Modalidad,Se incinera,125
+Modalidad,Otra modalidad,48
+Estación,Verano,5679
+Estación,Primavera,5481
+Estación,Otoño,4851
+Estación,Invierno,4722
+Franja horaria,Tarde,6061
+Franja horaria,Mañana,6051
+Franja horaria,Noche,5630
+Franja horaria,Madrugada,2991

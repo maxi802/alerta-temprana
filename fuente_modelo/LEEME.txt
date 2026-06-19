@@ -1,0 +1,10 @@
+Esta carpeta contiene los archivos que produce tu notebook de Google Colab.
+Son la "fuente" desde la que preparar_datos.py genera la carpeta data/.
+
+Archivos esperados:
+  - suicidios_01_preprocesado.csv     (hechos preprocesados)
+  - suicidios_03_panel_modelado.csv   (panel provincia x mes)
+  - modelo_alerta_temprana.joblib     (modelo entrenado)
+
+Cada vez que vuelvas a entrenar el modelo en Colab, descargá estos 3 archivos,
+reemplazalos acá y volvé a correr:  python preparar_datos.py

@@ -1,0 +1,1625 @@
+provincia,region,anio,mes,casos,periodo
+Buenos Aires,Centro,2017,1,70,2017-01
+Buenos Aires,Centro,2017,2,58,2017-02
+Buenos Aires,Centro,2017,3,66,2017-03
+Buenos Aires,Centro,2017,4,72,2017-04
+Buenos Aires,Centro,2017,5,58,2017-05
+Buenos Aires,Centro,2017,6,54,2017-06
+Buenos Aires,Centro,2017,7,84,2017-07
+Buenos Aires,Centro,2017,8,115,2017-08
+Buenos Aires,Centro,2017,9,111,2017-09
+Buenos Aires,Centro,2017,10,88,2017-10
+Buenos Aires,Centro,2017,11,119,2017-11
+Buenos Aires,Centro,2017,12,96,2017-12
+Buenos Aires,Centro,2018,1,109,2018-01
+Buenos Aires,Centro,2018,2,103,2018-02
+Buenos Aires,Centro,2018,3,104,2018-03
+Buenos Aires,Centro,2018,4,102,2018-04
+Buenos Aires,Centro,2018,5,105,2018-05
+Buenos Aires,Centro,2018,6,86,2018-06
+Buenos Aires,Centro,2018,7,98,2018-07
+Buenos Aires,Centro,2018,8,101,2018-08
+Buenos Aires,Centro,2018,9,123,2018-09
+Buenos Aires,Centro,2018,10,115,2018-10
+Buenos Aires,Centro,2018,11,109,2018-11
+Buenos Aires,Centro,2018,12,154,2018-12
+Buenos Aires,Centro,2019,1,107,2019-01
+Buenos Aires,Centro,2019,2,104,2019-02
+Buenos Aires,Centro,2019,3,94,2019-03
+Buenos Aires,Centro,2019,4,71,2019-04
+Buenos Aires,Centro,2019,5,46,2019-05
+Buenos Aires,Centro,2019,6,47,2019-06
+Buenos Aires,Centro,2019,7,84,2019-07
+Buenos Aires,Centro,2019,8,55,2019-08
+Buenos Aires,Centro,2019,9,82,2019-09
+Buenos Aires,Centro,2019,10,64,2019-10
+Buenos Aires,Centro,2019,11,63,2019-11
+Buenos Aires,Centro,2019,12,72,2019-12
+Buenos Aires,Centro,2020,1,64,2020-01
+Buenos Aires,Centro,2020,2,64,2020-02
+Buenos Aires,Centro,2020,3,38,2020-03
+Buenos Aires,Centro,2020,4,55,2020-04
+Buenos Aires,Centro,2020,5,61,2020-05
+Buenos Aires,Centro,2020,6,51,2020-06
+Buenos Aires,Centro,2020,7,58,2020-07
+Buenos Aires,Centro,2020,8,72,2020-08
+Buenos Aires,Centro,2020,9,49,2020-09
+Buenos Aires,Centro,2020,10,79,2020-10
+Buenos Aires,Centro,2020,11,115,2020-11
+Buenos Aires,Centro,2020,12,78,2020-12
+Buenos Aires,Centro,2021,1,85,2021-01
+Buenos Aires,Centro,2021,2,79,2021-02
+Buenos Aires,Centro,2021,3,107,2021-03
+Buenos Aires,Centro,2021,4,72,2021-04
+Buenos Aires,Centro,2021,5,72,2021-05
+Buenos Aires,Centro,2021,6,78,2021-06
+Buenos Aires,Centro,2021,7,82,2021-07
+Buenos Aires,Centro,2021,8,99,2021-08
+Buenos Aires,Centro,2021,9,77,2021-09
+Buenos Aires,Centro,2021,10,63,2021-10
+Buenos Aires,Centro,2021,11,98,2021-11
+Buenos Aires,Centro,2021,12,100,2021-12
+Buenos Aires,Centro,2022,1,78,2022-01
+Buenos Aires,Centro,2022,2,94,2022-02
+Buenos Aires,Centro,2022,3,94,2022-03
+Buenos Aires,Centro,2022,4,84,2022-04
+Buenos Aires,Centro,2022,5,77,2022-05
+Buenos Aires,Centro,2022,6,84,2022-06
+Buenos Aires,Centro,2022,7,65,2022-07
+Buenos Aires,Centro,2022,8,94,2022-08
+Buenos Aires,Centro,2022,9,104,2022-09
+Buenos Aires,Centro,2022,10,117,2022-10
+Buenos Aires,Centro,2022,11,109,2022-11
+Buenos Aires,Centro,2022,12,114,2022-12
+Catamarca,NOA,2017,1,2,2017-01
+Catamarca,NOA,2017,2,3,2017-02
+Catamarca,NOA,2017,3,4,2017-03
+Catamarca,NOA,2017,4,2,2017-04
+Catamarca,NOA,2017,5,3,2017-05
+Catamarca,NOA,2017,6,3,2017-06
+Catamarca,NOA,2017,7,4,2017-07
+Catamarca,NOA,2017,8,3,2017-08
+Catamarca,NOA,2017,9,5,2017-09
+Catamarca,NOA,2017,10,2,2017-10
+Catamarca,NOA,2017,11,3,2017-11
+Catamarca,NOA,2017,12,3,2017-12
+Catamarca,NOA,2018,1,3,2018-01
+Catamarca,NOA,2018,2,9,2018-02
+Catamarca,NOA,2018,3,5,2018-03
+Catamarca,NOA,2018,4,7,2018-04
+Catamarca,NOA,2018,5,2,2018-05
+Catamarca,NOA,2018,6,2,2018-06
+Catamarca,NOA,2018,7,1,2018-07
+Catamarca,NOA,2018,8,2,2018-08
+Catamarca,NOA,2018,9,3,2018-09
+Catamarca,NOA,2018,11,5,2018-11
+Catamarca,NOA,2019,2,3,2019-02
+Catamarca,NOA,2019,3,2,2019-03
+Catamarca,NOA,2019,4,2,2019-04
+Catamarca,NOA,2019,5,3,2019-05
+Catamarca,NOA,2019,6,2,2019-06
+Catamarca,NOA,2019,7,7,2019-07
+Catamarca,NOA,2019,9,3,2019-09
+Catamarca,NOA,2019,10,2,2019-10
+Catamarca,NOA,2019,11,2,2019-11
+Catamarca,NOA,2019,12,4,2019-12
+Catamarca,NOA,2020,1,2,2020-01
+Catamarca,NOA,2020,2,8,2020-02
+Catamarca,NOA,2020,3,2,2020-03
+Catamarca,NOA,2020,4,3,2020-04
+Catamarca,NOA,2020,5,1,2020-05
+Catamarca,NOA,2020,6,4,2020-06
+Catamarca,NOA,2020,7,3,2020-07
+Catamarca,NOA,2020,8,6,2020-08
+Catamarca,NOA,2020,9,3,2020-09
+Catamarca,NOA,2020,10,5,2020-10
+Catamarca,NOA,2020,11,4,2020-11
+Catamarca,NOA,2020,12,6,2020-12
+Catamarca,NOA,2021,1,3,2021-01
+Catamarca,NOA,2021,2,6,2021-02
+Catamarca,NOA,2021,3,6,2021-03
+Catamarca,NOA,2021,5,4,2021-05
+Catamarca,NOA,2021,6,3,2021-06
+Catamarca,NOA,2021,7,5,2021-07
+Catamarca,NOA,2021,8,3,2021-08
+Catamarca,NOA,2021,9,3,2021-09
+Catamarca,NOA,2021,10,5,2021-10
+Catamarca,NOA,2021,11,2,2021-11
+Catamarca,NOA,2021,12,3,2021-12
+Catamarca,NOA,2022,1,3,2022-01
+Catamarca,NOA,2022,2,6,2022-02
+Catamarca,NOA,2022,3,1,2022-03
+Catamarca,NOA,2022,4,4,2022-04
+Catamarca,NOA,2022,5,1,2022-05
+Catamarca,NOA,2022,6,6,2022-06
+Catamarca,NOA,2022,7,6,2022-07
+Catamarca,NOA,2022,8,4,2022-08
+Catamarca,NOA,2022,9,7,2022-09
+Catamarca,NOA,2022,10,3,2022-10
+Catamarca,NOA,2022,11,4,2022-11
+Catamarca,NOA,2022,12,6,2022-12
+Chaco,NEA,2017,1,9,2017-01
+Chaco,NEA,2017,2,8,2017-02
+Chaco,NEA,2017,3,7,2017-03
+Chaco,NEA,2017,4,8,2017-04
+Chaco,NEA,2017,5,10,2017-05
+Chaco,NEA,2017,6,11,2017-06
+Chaco,NEA,2017,7,8,2017-07
+Chaco,NEA,2017,8,13,2017-08
+Chaco,NEA,2017,9,5,2017-09
+Chaco,NEA,2017,10,9,2017-10
+Chaco,NEA,2017,11,7,2017-11
+Chaco,NEA,2017,12,5,2017-12
+Chaco,NEA,2018,1,6,2018-01
+Chaco,NEA,2018,2,3,2018-02
+Chaco,NEA,2018,3,10,2018-03
+Chaco,NEA,2018,4,15,2018-04
+Chaco,NEA,2018,5,9,2018-05
+Chaco,NEA,2018,6,11,2018-06
+Chaco,NEA,2018,7,9,2018-07
+Chaco,NEA,2018,8,7,2018-08
+Chaco,NEA,2018,9,10,2018-09
+Chaco,NEA,2018,10,10,2018-10
+Chaco,NEA,2018,11,4,2018-11
+Chaco,NEA,2018,12,13,2018-12
+Chaco,NEA,2019,1,3,2019-01
+Chaco,NEA,2019,2,6,2019-02
+Chaco,NEA,2019,3,12,2019-03
+Chaco,NEA,2019,4,4,2019-04
+Chaco,NEA,2019,5,7,2019-05
+Chaco,NEA,2019,6,15,2019-06
+Chaco,NEA,2019,7,9,2019-07
+Chaco,NEA,2019,8,6,2019-08
+Chaco,NEA,2019,9,6,2019-09
+Chaco,NEA,2019,10,8,2019-10
+Chaco,NEA,2019,11,5,2019-11
+Chaco,NEA,2019,12,7,2019-12
+Chaco,NEA,2020,1,9,2020-01
+Chaco,NEA,2020,2,16,2020-02
+Chaco,NEA,2020,3,7,2020-03
+Chaco,NEA,2020,4,7,2020-04
+Chaco,NEA,2020,5,13,2020-05
+Chaco,NEA,2020,6,7,2020-06
+Chaco,NEA,2020,7,7,2020-07
+Chaco,NEA,2020,8,6,2020-08
+Chaco,NEA,2020,9,6,2020-09
+Chaco,NEA,2020,10,4,2020-10
+Chaco,NEA,2020,11,11,2020-11
+Chaco,NEA,2020,12,9,2020-12
+Chaco,NEA,2021,1,5,2021-01
+Chaco,NEA,2021,2,10,2021-02
+Chaco,NEA,2021,3,10,2021-03
+Chaco,NEA,2021,4,5,2021-04
+Chaco,NEA,2021,5,7,2021-05
+Chaco,NEA,2021,6,7,2021-06
+Chaco,NEA,2021,7,11,2021-07
+Chaco,NEA,2021,8,8,2021-08
+Chaco,NEA,2021,9,11,2021-09
+Chaco,NEA,2021,10,9,2021-10
+Chaco,NEA,2021,11,8,2021-11
+Chaco,NEA,2021,12,14,2021-12
+Chaco,NEA,2022,1,7,2022-01
+Chaco,NEA,2022,2,13,2022-02
+Chaco,NEA,2022,3,11,2022-03
+Chaco,NEA,2022,4,5,2022-04
+Chaco,NEA,2022,5,10,2022-05
+Chaco,NEA,2022,6,13,2022-06
+Chaco,NEA,2022,7,14,2022-07
+Chaco,NEA,2022,8,11,2022-08
+Chaco,NEA,2022,9,13,2022-09
+Chaco,NEA,2022,10,11,2022-10
+Chaco,NEA,2022,11,11,2022-11
+Chaco,NEA,2022,12,18,2022-12
+Chubut,Patagonia,2017,1,6,2017-01
+Chubut,Patagonia,2017,2,6,2017-02
+Chubut,Patagonia,2017,3,8,2017-03
+Chubut,Patagonia,2017,4,1,2017-04
+Chubut,Patagonia,2017,5,4,2017-05
+Chubut,Patagonia,2017,6,3,2017-06
+Chubut,Patagonia,2017,7,4,2017-07
+Chubut,Patagonia,2017,8,6,2017-08
+Chubut,Patagonia,2017,9,2,2017-09
+Chubut,Patagonia,2017,10,6,2017-10
+Chubut,Patagonia,2017,11,5,2017-11
+Chubut,Patagonia,2017,12,2,2017-12
+Chubut,Patagonia,2018,1,7,2018-01
+Chubut,Patagonia,2018,2,2,2018-02
+Chubut,Patagonia,2018,3,5,2018-03
+Chubut,Patagonia,2018,4,4,2018-04
+Chubut,Patagonia,2018,5,10,2018-05
+Chubut,Patagonia,2018,6,5,2018-06
+Chubut,Patagonia,2018,7,7,2018-07
+Chubut,Patagonia,2018,8,7,2018-08
+Chubut,Patagonia,2018,9,3,2018-09
+Chubut,Patagonia,2018,10,5,2018-10
+Chubut,Patagonia,2018,11,6,2018-11
+Chubut,Patagonia,2018,12,8,2018-12
+Chubut,Patagonia,2019,1,5,2019-01
+Chubut,Patagonia,2019,2,4,2019-02
+Chubut,Patagonia,2019,3,6,2019-03
+Chubut,Patagonia,2019,4,3,2019-04
+Chubut,Patagonia,2019,5,5,2019-05
+Chubut,Patagonia,2019,6,2,2019-06
+Chubut,Patagonia,2019,7,2,2019-07
+Chubut,Patagonia,2019,8,2,2019-08
+Chubut,Patagonia,2019,9,8,2019-09
+Chubut,Patagonia,2019,10,2,2019-10
+Chubut,Patagonia,2019,11,8,2019-11
+Chubut,Patagonia,2019,12,6,2019-12
+Chubut,Patagonia,2020,1,8,2020-01
+Chubut,Patagonia,2020,2,9,2020-02
+Chubut,Patagonia,2020,3,4,2020-03
+Chubut,Patagonia,2020,4,5,2020-04
+Chubut,Patagonia,2020,5,6,2020-05
+Chubut,Patagonia,2020,6,6,2020-06
+Chubut,Patagonia,2020,7,2,2020-07
+Chubut,Patagonia,2020,8,4,2020-08
+Chubut,Patagonia,2020,9,5,2020-09
+Chubut,Patagonia,2020,10,10,2020-10
+Chubut,Patagonia,2020,11,9,2020-11
+Chubut,Patagonia,2020,12,3,2020-12
+Chubut,Patagonia,2021,1,8,2021-01
+Chubut,Patagonia,2021,2,8,2021-02
+Chubut,Patagonia,2021,3,8,2021-03
+Chubut,Patagonia,2021,4,5,2021-04
+Chubut,Patagonia,2021,5,3,2021-05
+Chubut,Patagonia,2021,6,4,2021-06
+Chubut,Patagonia,2021,7,4,2021-07
+Chubut,Patagonia,2021,8,5,2021-08
+Chubut,Patagonia,2021,9,4,2021-09
+Chubut,Patagonia,2021,10,7,2021-10
+Chubut,Patagonia,2021,11,2,2021-11
+Chubut,Patagonia,2021,12,4,2021-12
+Chubut,Patagonia,2022,1,2,2022-01
+Chubut,Patagonia,2022,2,6,2022-02
+Chubut,Patagonia,2022,3,6,2022-03
+Chubut,Patagonia,2022,4,9,2022-04
+Chubut,Patagonia,2022,5,4,2022-05
+Chubut,Patagonia,2022,6,8,2022-06
+Chubut,Patagonia,2022,7,3,2022-07
+Chubut,Patagonia,2022,8,6,2022-08
+Chubut,Patagonia,2022,9,3,2022-09
+Chubut,Patagonia,2022,10,4,2022-10
+Chubut,Patagonia,2022,11,1,2022-11
+Chubut,Patagonia,2022,12,4,2022-12
+Ciudad Autónoma de Buenos Aires,Centro,2017,1,11,2017-01
+Ciudad Autónoma de Buenos Aires,Centro,2017,2,21,2017-02
+Ciudad Autónoma de Buenos Aires,Centro,2017,3,17,2017-03
+Ciudad Autónoma de Buenos Aires,Centro,2017,4,13,2017-04
+Ciudad Autónoma de Buenos Aires,Centro,2017,5,11,2017-05
+Ciudad Autónoma de Buenos Aires,Centro,2017,6,16,2017-06
+Ciudad Autónoma de Buenos Aires,Centro,2017,7,7,2017-07
+Ciudad Autónoma de Buenos Aires,Centro,2017,8,15,2017-08
+Ciudad Autónoma de Buenos Aires,Centro,2017,9,12,2017-09
+Ciudad Autónoma de Buenos Aires,Centro,2017,10,11,2017-10
+Ciudad Autónoma de Buenos Aires,Centro,2017,11,21,2017-11
+Ciudad Autónoma de Buenos Aires,Centro,2017,12,11,2017-12
+Ciudad Autónoma de Buenos Aires,Centro,2018,1,13,2018-01
+Ciudad Autónoma de Buenos Aires,Centro,2018,2,16,2018-02
+Ciudad Autónoma de Buenos Aires,Centro,2018,3,16,2018-03
+Ciudad Autónoma de Buenos Aires,Centro,2018,4,22,2018-04
+Ciudad Autónoma de Buenos Aires,Centro,2018,5,19,2018-05
+Ciudad Autónoma de Buenos Aires,Centro,2018,6,16,2018-06
+Ciudad Autónoma de Buenos Aires,Centro,2018,7,12,2018-07
+Ciudad Autónoma de Buenos Aires,Centro,2018,8,20,2018-08
+Ciudad Autónoma de Buenos Aires,Centro,2018,9,23,2018-09
+Ciudad Autónoma de Buenos Aires,Centro,2018,10,19,2018-10
+Ciudad Autónoma de Buenos Aires,Centro,2018,11,28,2018-11
+Ciudad Autónoma de Buenos Aires,Centro,2018,12,15,2018-12
+Ciudad Autónoma de Buenos Aires,Centro,2019,1,11,2019-01
+Ciudad Autónoma de Buenos Aires,Centro,2019,2,15,2019-02
+Ciudad Autónoma de Buenos Aires,Centro,2019,3,14,2019-03
+Ciudad Autónoma de Buenos Aires,Centro,2019,4,24,2019-04
+Ciudad Autónoma de Buenos Aires,Centro,2019,5,13,2019-05
+Ciudad Autónoma de Buenos Aires,Centro,2019,6,17,2019-06
+Ciudad Autónoma de Buenos Aires,Centro,2019,7,29,2019-07
+Ciudad Autónoma de Buenos Aires,Centro,2019,8,27,2019-08
+Ciudad Autónoma de Buenos Aires,Centro,2019,9,10,2019-09
+Ciudad Autónoma de Buenos Aires,Centro,2019,10,12,2019-10
+Ciudad Autónoma de Buenos Aires,Centro,2019,11,23,2019-11
+Ciudad Autónoma de Buenos Aires,Centro,2019,12,24,2019-12
+Ciudad Autónoma de Buenos Aires,Centro,2020,1,16,2020-01
+Ciudad Autónoma de Buenos Aires,Centro,2020,2,3,2020-02
+Ciudad Autónoma de Buenos Aires,Centro,2020,3,16,2020-03
+Ciudad Autónoma de Buenos Aires,Centro,2020,4,22,2020-04
+Ciudad Autónoma de Buenos Aires,Centro,2020,5,26,2020-05
+Ciudad Autónoma de Buenos Aires,Centro,2020,6,16,2020-06
+Ciudad Autónoma de Buenos Aires,Centro,2020,7,14,2020-07
+Ciudad Autónoma de Buenos Aires,Centro,2020,8,13,2020-08
+Ciudad Autónoma de Buenos Aires,Centro,2020,9,10,2020-09
+Ciudad Autónoma de Buenos Aires,Centro,2020,10,19,2020-10
+Ciudad Autónoma de Buenos Aires,Centro,2020,11,19,2020-11
+Ciudad Autónoma de Buenos Aires,Centro,2020,12,22,2020-12
+Ciudad Autónoma de Buenos Aires,Centro,2021,1,18,2021-01
+Ciudad Autónoma de Buenos Aires,Centro,2021,2,17,2021-02
+Ciudad Autónoma de Buenos Aires,Centro,2021,3,25,2021-03
+Ciudad Autónoma de Buenos Aires,Centro,2021,4,15,2021-04
+Ciudad Autónoma de Buenos Aires,Centro,2021,5,22,2021-05
+Ciudad Autónoma de Buenos Aires,Centro,2021,6,9,2021-06
+Ciudad Autónoma de Buenos Aires,Centro,2021,7,18,2021-07
+Ciudad Autónoma de Buenos Aires,Centro,2021,8,20,2021-08
+Ciudad Autónoma de Buenos Aires,Centro,2021,9,19,2021-09
+Ciudad Autónoma de Buenos Aires,Centro,2021,10,22,2021-10
+Ciudad Autónoma de Buenos Aires,Centro,2021,11,15,2021-11
+Ciudad Autónoma de Buenos Aires,Centro,2021,12,25,2021-12
+Ciudad Autónoma de Buenos Aires,Centro,2022,1,19,2022-01
+Ciudad Autónoma de Buenos Aires,Centro,2022,2,21,2022-02
+Ciudad Autónoma de Buenos Aires,Centro,2022,3,23,2022-03
+Ciudad Autónoma de Buenos Aires,Centro,2022,4,18,2022-04
+Ciudad Autónoma de Buenos Aires,Centro,2022,5,22,2022-05
+Ciudad Autónoma de Buenos Aires,Centro,2022,6,14,2022-06
+Ciudad Autónoma de Buenos Aires,Centro,2022,7,15,2022-07
+Ciudad Autónoma de Buenos Aires,Centro,2022,8,16,2022-08
+Ciudad Autónoma de Buenos Aires,Centro,2022,9,19,2022-09
+Ciudad Autónoma de Buenos Aires,Centro,2022,10,28,2022-10
+Ciudad Autónoma de Buenos Aires,Centro,2022,11,19,2022-11
+Ciudad Autónoma de Buenos Aires,Centro,2022,12,21,2022-12
+Corrientes,NEA,2017,1,2,2017-01
+Corrientes,NEA,2017,2,4,2017-02
+Corrientes,NEA,2017,3,1,2017-03
+Corrientes,NEA,2017,4,4,2017-04
+Corrientes,NEA,2017,5,9,2017-05
+Corrientes,NEA,2017,6,1,2017-06
+Corrientes,NEA,2017,7,5,2017-07
+Corrientes,NEA,2017,8,4,2017-08
+Corrientes,NEA,2017,10,8,2017-10
+Corrientes,NEA,2017,11,2,2017-11
+Corrientes,NEA,2017,12,8,2017-12
+Corrientes,NEA,2018,1,13,2018-01
+Corrientes,NEA,2018,2,11,2018-02
+Corrientes,NEA,2018,3,7,2018-03
+Corrientes,NEA,2018,4,9,2018-04
+Corrientes,NEA,2018,5,6,2018-05
+Corrientes,NEA,2018,6,2,2018-06
+Corrientes,NEA,2018,7,3,2018-07
+Corrientes,NEA,2018,8,3,2018-08
+Corrientes,NEA,2018,9,3,2018-09
+Corrientes,NEA,2018,10,5,2018-10
+Corrientes,NEA,2018,11,10,2018-11
+Corrientes,NEA,2018,12,9,2018-12
+Corrientes,NEA,2019,1,16,2019-01
+Corrientes,NEA,2019,2,12,2019-02
+Corrientes,NEA,2019,3,3,2019-03
+Corrientes,NEA,2019,4,9,2019-04
+Corrientes,NEA,2019,5,11,2019-05
+Corrientes,NEA,2019,6,3,2019-06
+Corrientes,NEA,2019,7,8,2019-07
+Corrientes,NEA,2019,8,10,2019-08
+Corrientes,NEA,2019,9,9,2019-09
+Corrientes,NEA,2019,10,13,2019-10
+Corrientes,NEA,2019,11,15,2019-11
+Corrientes,NEA,2019,12,10,2019-12
+Corrientes,NEA,2020,1,18,2020-01
+Corrientes,NEA,2020,2,4,2020-02
+Corrientes,NEA,2020,3,2,2020-03
+Corrientes,NEA,2020,4,1,2020-04
+Corrientes,NEA,2020,5,2,2020-05
+Corrientes,NEA,2020,6,2,2020-06
+Corrientes,NEA,2020,7,2,2020-07
+Corrientes,NEA,2020,8,1,2020-08
+Corrientes,NEA,2020,10,2,2020-10
+Corrientes,NEA,2020,11,1,2020-11
+Corrientes,NEA,2020,12,1,2020-12
+Corrientes,NEA,2021,1,4,2021-01
+Corrientes,NEA,2021,2,4,2021-02
+Corrientes,NEA,2021,3,5,2021-03
+Corrientes,NEA,2021,4,5,2021-04
+Corrientes,NEA,2021,5,6,2021-05
+Corrientes,NEA,2021,6,3,2021-06
+Corrientes,NEA,2021,7,7,2021-07
+Corrientes,NEA,2021,8,11,2021-08
+Corrientes,NEA,2021,9,7,2021-09
+Corrientes,NEA,2021,10,9,2021-10
+Corrientes,NEA,2021,11,8,2021-11
+Corrientes,NEA,2021,12,2,2021-12
+Corrientes,NEA,2022,1,7,2022-01
+Corrientes,NEA,2022,2,4,2022-02
+Corrientes,NEA,2022,3,3,2022-03
+Corrientes,NEA,2022,4,3,2022-04
+Corrientes,NEA,2022,5,5,2022-05
+Corrientes,NEA,2022,6,1,2022-06
+Corrientes,NEA,2022,7,8,2022-07
+Corrientes,NEA,2022,8,5,2022-08
+Corrientes,NEA,2022,9,5,2022-09
+Corrientes,NEA,2022,10,6,2022-10
+Corrientes,NEA,2022,11,7,2022-11
+Corrientes,NEA,2022,12,3,2022-12
+Córdoba,Centro,2017,1,28,2017-01
+Córdoba,Centro,2017,2,16,2017-02
+Córdoba,Centro,2017,3,21,2017-03
+Córdoba,Centro,2017,4,21,2017-04
+Córdoba,Centro,2017,5,16,2017-05
+Córdoba,Centro,2017,6,17,2017-06
+Córdoba,Centro,2017,7,8,2017-07
+Córdoba,Centro,2017,8,16,2017-08
+Córdoba,Centro,2017,9,22,2017-09
+Córdoba,Centro,2017,10,12,2017-10
+Córdoba,Centro,2017,11,23,2017-11
+Córdoba,Centro,2017,12,27,2017-12
+Córdoba,Centro,2018,1,21,2018-01
+Córdoba,Centro,2018,2,19,2018-02
+Córdoba,Centro,2018,3,20,2018-03
+Córdoba,Centro,2018,4,14,2018-04
+Córdoba,Centro,2018,5,23,2018-05
+Córdoba,Centro,2018,6,18,2018-06
+Córdoba,Centro,2018,7,26,2018-07
+Córdoba,Centro,2018,8,15,2018-08
+Córdoba,Centro,2018,9,19,2018-09
+Córdoba,Centro,2018,10,30,2018-10
+Córdoba,Centro,2018,11,21,2018-11
+Córdoba,Centro,2018,12,26,2018-12
+Córdoba,Centro,2019,1,23,2019-01
+Córdoba,Centro,2019,2,19,2019-02
+Córdoba,Centro,2019,3,26,2019-03
+Córdoba,Centro,2019,4,29,2019-04
+Córdoba,Centro,2019,5,24,2019-05
+Córdoba,Centro,2019,6,9,2019-06
+Córdoba,Centro,2019,7,21,2019-07
+Córdoba,Centro,2019,8,21,2019-08
+Córdoba,Centro,2019,9,23,2019-09
+Córdoba,Centro,2019,10,20,2019-10
+Córdoba,Centro,2019,11,23,2019-11
+Córdoba,Centro,2019,12,19,2019-12
+Córdoba,Centro,2020,1,22,2020-01
+Córdoba,Centro,2020,2,21,2020-02
+Córdoba,Centro,2020,3,18,2020-03
+Córdoba,Centro,2020,4,20,2020-04
+Córdoba,Centro,2020,5,10,2020-05
+Córdoba,Centro,2020,6,8,2020-06
+Córdoba,Centro,2020,7,11,2020-07
+Córdoba,Centro,2020,8,10,2020-08
+Córdoba,Centro,2020,9,6,2020-09
+Córdoba,Centro,2020,10,21,2020-10
+Córdoba,Centro,2020,11,24,2020-11
+Córdoba,Centro,2020,12,22,2020-12
+Córdoba,Centro,2021,1,23,2021-01
+Córdoba,Centro,2021,2,18,2021-02
+Córdoba,Centro,2021,3,25,2021-03
+Córdoba,Centro,2021,4,20,2021-04
+Córdoba,Centro,2021,5,17,2021-05
+Córdoba,Centro,2021,6,20,2021-06
+Córdoba,Centro,2021,7,24,2021-07
+Córdoba,Centro,2021,8,18,2021-08
+Córdoba,Centro,2021,9,18,2021-09
+Córdoba,Centro,2021,10,29,2021-10
+Córdoba,Centro,2021,11,33,2021-11
+Córdoba,Centro,2021,12,29,2021-12
+Córdoba,Centro,2022,1,25,2022-01
+Córdoba,Centro,2022,2,31,2022-02
+Córdoba,Centro,2022,3,25,2022-03
+Córdoba,Centro,2022,4,18,2022-04
+Córdoba,Centro,2022,5,15,2022-05
+Córdoba,Centro,2022,6,15,2022-06
+Córdoba,Centro,2022,7,17,2022-07
+Córdoba,Centro,2022,8,17,2022-08
+Córdoba,Centro,2022,9,17,2022-09
+Córdoba,Centro,2022,10,16,2022-10
+Córdoba,Centro,2022,11,21,2022-11
+Córdoba,Centro,2022,12,34,2022-12
+Entre Ríos,Centro,2017,1,13,2017-01
+Entre Ríos,Centro,2017,2,12,2017-02
+Entre Ríos,Centro,2017,3,8,2017-03
+Entre Ríos,Centro,2017,4,11,2017-04
+Entre Ríos,Centro,2017,5,8,2017-05
+Entre Ríos,Centro,2017,6,15,2017-06
+Entre Ríos,Centro,2017,7,6,2017-07
+Entre Ríos,Centro,2017,8,6,2017-08
+Entre Ríos,Centro,2017,9,17,2017-09
+Entre Ríos,Centro,2017,10,17,2017-10
+Entre Ríos,Centro,2017,11,17,2017-11
+Entre Ríos,Centro,2017,12,19,2017-12
+Entre Ríos,Centro,2018,1,15,2018-01
+Entre Ríos,Centro,2018,2,17,2018-02
+Entre Ríos,Centro,2018,3,13,2018-03
+Entre Ríos,Centro,2018,4,20,2018-04
+Entre Ríos,Centro,2018,5,14,2018-05
+Entre Ríos,Centro,2018,6,10,2018-06
+Entre Ríos,Centro,2018,7,25,2018-07
+Entre Ríos,Centro,2018,8,26,2018-08
+Entre Ríos,Centro,2018,9,16,2018-09
+Entre Ríos,Centro,2018,10,23,2018-10
+Entre Ríos,Centro,2018,11,23,2018-11
+Entre Ríos,Centro,2018,12,30,2018-12
+Entre Ríos,Centro,2019,1,29,2019-01
+Entre Ríos,Centro,2019,2,19,2019-02
+Entre Ríos,Centro,2019,3,24,2019-03
+Entre Ríos,Centro,2019,4,21,2019-04
+Entre Ríos,Centro,2019,5,16,2019-05
+Entre Ríos,Centro,2019,6,19,2019-06
+Entre Ríos,Centro,2019,7,16,2019-07
+Entre Ríos,Centro,2019,8,23,2019-08
+Entre Ríos,Centro,2019,9,19,2019-09
+Entre Ríos,Centro,2019,10,26,2019-10
+Entre Ríos,Centro,2019,11,21,2019-11
+Entre Ríos,Centro,2019,12,18,2019-12
+Entre Ríos,Centro,2020,1,19,2020-01
+Entre Ríos,Centro,2020,2,24,2020-02
+Entre Ríos,Centro,2020,3,19,2020-03
+Entre Ríos,Centro,2020,4,19,2020-04
+Entre Ríos,Centro,2020,5,13,2020-05
+Entre Ríos,Centro,2020,6,13,2020-06
+Entre Ríos,Centro,2020,7,12,2020-07
+Entre Ríos,Centro,2020,8,8,2020-08
+Entre Ríos,Centro,2020,9,12,2020-09
+Entre Ríos,Centro,2020,10,20,2020-10
+Entre Ríos,Centro,2020,11,15,2020-11
+Entre Ríos,Centro,2020,12,22,2020-12
+Entre Ríos,Centro,2021,1,21,2021-01
+Entre Ríos,Centro,2021,2,18,2021-02
+Entre Ríos,Centro,2021,3,12,2021-03
+Entre Ríos,Centro,2021,4,18,2021-04
+Entre Ríos,Centro,2021,5,15,2021-05
+Entre Ríos,Centro,2021,6,9,2021-06
+Entre Ríos,Centro,2021,7,20,2021-07
+Entre Ríos,Centro,2021,8,17,2021-08
+Entre Ríos,Centro,2021,9,16,2021-09
+Entre Ríos,Centro,2021,10,22,2021-10
+Entre Ríos,Centro,2021,11,26,2021-11
+Entre Ríos,Centro,2021,12,21,2021-12
+Entre Ríos,Centro,2022,1,17,2022-01
+Entre Ríos,Centro,2022,2,17,2022-02
+Entre Ríos,Centro,2022,3,19,2022-03
+Entre Ríos,Centro,2022,4,20,2022-04
+Entre Ríos,Centro,2022,5,14,2022-05
+Entre Ríos,Centro,2022,6,18,2022-06
+Entre Ríos,Centro,2022,7,24,2022-07
+Entre Ríos,Centro,2022,8,20,2022-08
+Entre Ríos,Centro,2022,9,22,2022-09
+Entre Ríos,Centro,2022,10,24,2022-10
+Entre Ríos,Centro,2022,11,20,2022-11
+Entre Ríos,Centro,2022,12,23,2022-12
+Formosa,NEA,2017,1,6,2017-01
+Formosa,NEA,2017,2,6,2017-02
+Formosa,NEA,2017,3,2,2017-03
+Formosa,NEA,2017,4,3,2017-04
+Formosa,NEA,2017,5,3,2017-05
+Formosa,NEA,2017,6,5,2017-06
+Formosa,NEA,2017,7,4,2017-07
+Formosa,NEA,2017,8,4,2017-08
+Formosa,NEA,2017,9,6,2017-09
+Formosa,NEA,2017,10,5,2017-10
+Formosa,NEA,2017,11,6,2017-11
+Formosa,NEA,2017,12,10,2017-12
+Formosa,NEA,2018,1,7,2018-01
+Formosa,NEA,2018,2,2,2018-02
+Formosa,NEA,2018,3,6,2018-03
+Formosa,NEA,2018,4,1,2018-04
+Formosa,NEA,2018,5,8,2018-05
+Formosa,NEA,2018,6,6,2018-06
+Formosa,NEA,2018,7,5,2018-07
+Formosa,NEA,2018,8,4,2018-08
+Formosa,NEA,2018,9,7,2018-09
+Formosa,NEA,2018,10,3,2018-10
+Formosa,NEA,2018,11,8,2018-11
+Formosa,NEA,2018,12,8,2018-12
+Formosa,NEA,2019,1,4,2019-01
+Formosa,NEA,2019,2,6,2019-02
+Formosa,NEA,2019,3,4,2019-03
+Formosa,NEA,2019,4,4,2019-04
+Formosa,NEA,2019,5,7,2019-05
+Formosa,NEA,2019,6,7,2019-06
+Formosa,NEA,2019,7,5,2019-07
+Formosa,NEA,2019,8,4,2019-08
+Formosa,NEA,2019,9,3,2019-09
+Formosa,NEA,2019,10,7,2019-10
+Formosa,NEA,2019,11,4,2019-11
+Formosa,NEA,2019,12,8,2019-12
+Formosa,NEA,2020,1,8,2020-01
+Formosa,NEA,2020,3,9,2020-03
+Formosa,NEA,2020,4,6,2020-04
+Formosa,NEA,2020,5,7,2020-05
+Formosa,NEA,2020,6,3,2020-06
+Formosa,NEA,2020,7,10,2020-07
+Formosa,NEA,2020,8,6,2020-08
+Formosa,NEA,2020,9,3,2020-09
+Formosa,NEA,2020,10,11,2020-10
+Formosa,NEA,2020,12,3,2020-12
+Formosa,NEA,2021,1,2,2021-01
+Formosa,NEA,2021,2,6,2021-02
+Formosa,NEA,2021,3,4,2021-03
+Formosa,NEA,2021,4,4,2021-04
+Formosa,NEA,2021,5,2,2021-05
+Formosa,NEA,2021,7,4,2021-07
+Formosa,NEA,2021,8,7,2021-08
+Formosa,NEA,2021,9,4,2021-09
+Formosa,NEA,2021,10,6,2021-10
+Formosa,NEA,2021,11,5,2021-11
+Formosa,NEA,2021,12,8,2021-12
+Formosa,NEA,2022,1,5,2022-01
+Formosa,NEA,2022,2,8,2022-02
+Formosa,NEA,2022,3,7,2022-03
+Formosa,NEA,2022,4,10,2022-04
+Formosa,NEA,2022,5,3,2022-05
+Formosa,NEA,2022,6,5,2022-06
+Formosa,NEA,2022,7,4,2022-07
+Formosa,NEA,2022,8,8,2022-08
+Formosa,NEA,2022,9,5,2022-09
+Formosa,NEA,2022,10,4,2022-10
+Formosa,NEA,2022,11,10,2022-11
+Formosa,NEA,2022,12,9,2022-12
+Jujuy,NOA,2017,1,9,2017-01
+Jujuy,NOA,2017,2,1,2017-02
+Jujuy,NOA,2017,3,3,2017-03
+Jujuy,NOA,2017,4,2,2017-04
+Jujuy,NOA,2017,5,1,2017-05
+Jujuy,NOA,2017,6,5,2017-06
+Jujuy,NOA,2017,7,3,2017-07
+Jujuy,NOA,2017,8,3,2017-08
+Jujuy,NOA,2017,9,2,2017-09
+Jujuy,NOA,2017,10,2,2017-10
+Jujuy,NOA,2017,11,2,2017-11
+Jujuy,NOA,2017,12,3,2017-12
+Jujuy,NOA,2018,1,1,2018-01
+Jujuy,NOA,2018,2,4,2018-02
+Jujuy,NOA,2018,3,2,2018-03
+Jujuy,NOA,2018,4,3,2018-04
+Jujuy,NOA,2018,5,3,2018-05
+Jujuy,NOA,2018,6,2,2018-06
+Jujuy,NOA,2018,7,2,2018-07
+Jujuy,NOA,2018,9,1,2018-09
+Jujuy,NOA,2018,10,4,2018-10
+Jujuy,NOA,2018,11,1,2018-11
+Jujuy,NOA,2018,12,3,2018-12
+Jujuy,NOA,2019,1,4,2019-01
+Jujuy,NOA,2019,2,3,2019-02
+Jujuy,NOA,2019,3,5,2019-03
+Jujuy,NOA,2019,4,4,2019-04
+Jujuy,NOA,2019,5,3,2019-05
+Jujuy,NOA,2019,6,11,2019-06
+Jujuy,NOA,2019,7,5,2019-07
+Jujuy,NOA,2019,8,5,2019-08
+Jujuy,NOA,2019,9,1,2019-09
+Jujuy,NOA,2019,10,3,2019-10
+Jujuy,NOA,2019,11,2,2019-11
+Jujuy,NOA,2019,12,10,2019-12
+Jujuy,NOA,2020,1,5,2020-01
+Jujuy,NOA,2020,2,5,2020-02
+Jujuy,NOA,2020,3,5,2020-03
+Jujuy,NOA,2020,4,1,2020-04
+Jujuy,NOA,2020,5,3,2020-05
+Jujuy,NOA,2020,6,6,2020-06
+Jujuy,NOA,2020,7,7,2020-07
+Jujuy,NOA,2020,8,5,2020-08
+Jujuy,NOA,2020,9,9,2020-09
+Jujuy,NOA,2020,10,6,2020-10
+Jujuy,NOA,2020,11,9,2020-11
+Jujuy,NOA,2020,12,4,2020-12
+Jujuy,NOA,2021,1,4,2021-01
+Jujuy,NOA,2021,2,6,2021-02
+Jujuy,NOA,2021,3,4,2021-03
+Jujuy,NOA,2021,4,4,2021-04
+Jujuy,NOA,2021,5,4,2021-05
+Jujuy,NOA,2021,6,4,2021-06
+Jujuy,NOA,2021,7,5,2021-07
+Jujuy,NOA,2021,8,4,2021-08
+Jujuy,NOA,2021,9,3,2021-09
+Jujuy,NOA,2021,10,8,2021-10
+Jujuy,NOA,2021,11,2,2021-11
+Jujuy,NOA,2021,12,4,2021-12
+Jujuy,NOA,2022,1,2,2022-01
+Jujuy,NOA,2022,2,6,2022-02
+Jujuy,NOA,2022,3,5,2022-03
+Jujuy,NOA,2022,4,6,2022-04
+Jujuy,NOA,2022,5,4,2022-05
+Jujuy,NOA,2022,6,3,2022-06
+Jujuy,NOA,2022,7,3,2022-07
+Jujuy,NOA,2022,8,2,2022-08
+Jujuy,NOA,2022,9,1,2022-09
+Jujuy,NOA,2022,10,7,2022-10
+Jujuy,NOA,2022,11,5,2022-11
+Jujuy,NOA,2022,12,6,2022-12
+La Pampa,Centro,2017,1,4,2017-01
+La Pampa,Centro,2017,2,2,2017-02
+La Pampa,Centro,2017,3,2,2017-03
+La Pampa,Centro,2017,4,1,2017-04
+La Pampa,Centro,2017,5,5,2017-05
+La Pampa,Centro,2017,6,1,2017-06
+La Pampa,Centro,2017,7,7,2017-07
+La Pampa,Centro,2017,8,5,2017-08
+La Pampa,Centro,2017,11,1,2017-11
+La Pampa,Centro,2017,12,3,2017-12
+La Pampa,Centro,2018,2,4,2018-02
+La Pampa,Centro,2018,3,2,2018-03
+La Pampa,Centro,2018,4,1,2018-04
+La Pampa,Centro,2018,5,3,2018-05
+La Pampa,Centro,2018,6,4,2018-06
+La Pampa,Centro,2018,7,2,2018-07
+La Pampa,Centro,2018,8,3,2018-08
+La Pampa,Centro,2018,9,5,2018-09
+La Pampa,Centro,2018,10,4,2018-10
+La Pampa,Centro,2018,11,6,2018-11
+La Pampa,Centro,2018,12,6,2018-12
+La Pampa,Centro,2019,1,4,2019-01
+La Pampa,Centro,2019,2,1,2019-02
+La Pampa,Centro,2019,3,4,2019-03
+La Pampa,Centro,2019,4,2,2019-04
+La Pampa,Centro,2019,5,4,2019-05
+La Pampa,Centro,2019,6,1,2019-06
+La Pampa,Centro,2019,7,4,2019-07
+La Pampa,Centro,2019,8,2,2019-08
+La Pampa,Centro,2019,9,2,2019-09
+La Pampa,Centro,2019,11,6,2019-11
+La Pampa,Centro,2019,12,4,2019-12
+La Pampa,Centro,2020,1,6,2020-01
+La Pampa,Centro,2020,2,5,2020-02
+La Pampa,Centro,2020,3,8,2020-03
+La Pampa,Centro,2020,4,2,2020-04
+La Pampa,Centro,2020,5,3,2020-05
+La Pampa,Centro,2020,6,3,2020-06
+La Pampa,Centro,2020,7,3,2020-07
+La Pampa,Centro,2020,9,5,2020-09
+La Pampa,Centro,2020,10,4,2020-10
+La Pampa,Centro,2020,11,3,2020-11
+La Pampa,Centro,2020,12,1,2020-12
+La Pampa,Centro,2021,1,2,2021-01
+La Pampa,Centro,2021,2,2,2021-02
+La Pampa,Centro,2021,3,2,2021-03
+La Pampa,Centro,2021,4,5,2021-04
+La Pampa,Centro,2021,5,4,2021-05
+La Pampa,Centro,2021,6,3,2021-06
+La Pampa,Centro,2021,7,2,2021-07
+La Pampa,Centro,2021,8,5,2021-08
+La Pampa,Centro,2021,9,5,2021-09
+La Pampa,Centro,2021,10,3,2021-10
+La Pampa,Centro,2021,11,1,2021-11
+La Pampa,Centro,2021,12,1,2021-12
+La Pampa,Centro,2022,1,4,2022-01
+La Pampa,Centro,2022,2,4,2022-02
+La Pampa,Centro,2022,3,7,2022-03
+La Pampa,Centro,2022,4,3,2022-04
+La Pampa,Centro,2022,5,2,2022-05
+La Pampa,Centro,2022,6,4,2022-06
+La Pampa,Centro,2022,7,4,2022-07
+La Pampa,Centro,2022,8,4,2022-08
+La Pampa,Centro,2022,9,7,2022-09
+La Pampa,Centro,2022,10,6,2022-10
+La Pampa,Centro,2022,11,3,2022-11
+La Pampa,Centro,2022,12,6,2022-12
+La Rioja,Cuyo,2017,1,2,2017-01
+La Rioja,Cuyo,2017,4,1,2017-04
+La Rioja,Cuyo,2017,5,1,2017-05
+La Rioja,Cuyo,2017,6,1,2017-06
+La Rioja,Cuyo,2017,7,5,2017-07
+La Rioja,Cuyo,2017,8,2,2017-08
+La Rioja,Cuyo,2017,9,1,2017-09
+La Rioja,Cuyo,2018,1,2,2018-01
+La Rioja,Cuyo,2018,2,1,2018-02
+La Rioja,Cuyo,2018,3,7,2018-03
+La Rioja,Cuyo,2018,4,11,2018-04
+La Rioja,Cuyo,2018,5,3,2018-05
+La Rioja,Cuyo,2018,6,4,2018-06
+La Rioja,Cuyo,2018,7,3,2018-07
+La Rioja,Cuyo,2018,8,1,2018-08
+La Rioja,Cuyo,2018,9,3,2018-09
+La Rioja,Cuyo,2018,10,4,2018-10
+La Rioja,Cuyo,2018,11,4,2018-11
+La Rioja,Cuyo,2018,12,2,2018-12
+La Rioja,Cuyo,2019,1,3,2019-01
+La Rioja,Cuyo,2019,2,2,2019-02
+La Rioja,Cuyo,2019,3,2,2019-03
+La Rioja,Cuyo,2019,4,4,2019-04
+La Rioja,Cuyo,2019,5,1,2019-05
+La Rioja,Cuyo,2019,7,4,2019-07
+La Rioja,Cuyo,2019,8,5,2019-08
+La Rioja,Cuyo,2019,9,8,2019-09
+La Rioja,Cuyo,2019,10,6,2019-10
+La Rioja,Cuyo,2019,11,7,2019-11
+La Rioja,Cuyo,2019,12,5,2019-12
+La Rioja,Cuyo,2020,1,7,2020-01
+La Rioja,Cuyo,2020,2,6,2020-02
+La Rioja,Cuyo,2020,3,8,2020-03
+La Rioja,Cuyo,2020,4,3,2020-04
+La Rioja,Cuyo,2020,5,1,2020-05
+La Rioja,Cuyo,2020,6,1,2020-06
+La Rioja,Cuyo,2020,7,2,2020-07
+La Rioja,Cuyo,2020,8,4,2020-08
+La Rioja,Cuyo,2020,9,4,2020-09
+La Rioja,Cuyo,2020,10,3,2020-10
+La Rioja,Cuyo,2020,11,1,2020-11
+La Rioja,Cuyo,2020,12,5,2020-12
+La Rioja,Cuyo,2021,1,5,2021-01
+La Rioja,Cuyo,2021,2,4,2021-02
+La Rioja,Cuyo,2021,3,4,2021-03
+La Rioja,Cuyo,2021,4,2,2021-04
+La Rioja,Cuyo,2021,5,1,2021-05
+La Rioja,Cuyo,2021,6,2,2021-06
+La Rioja,Cuyo,2021,7,3,2021-07
+La Rioja,Cuyo,2021,8,1,2021-08
+La Rioja,Cuyo,2021,9,4,2021-09
+La Rioja,Cuyo,2021,10,8,2021-10
+La Rioja,Cuyo,2021,11,7,2021-11
+La Rioja,Cuyo,2021,12,9,2021-12
+La Rioja,Cuyo,2022,1,4,2022-01
+La Rioja,Cuyo,2022,2,6,2022-02
+La Rioja,Cuyo,2022,3,5,2022-03
+La Rioja,Cuyo,2022,4,2,2022-04
+La Rioja,Cuyo,2022,5,6,2022-05
+La Rioja,Cuyo,2022,6,4,2022-06
+La Rioja,Cuyo,2022,7,5,2022-07
+La Rioja,Cuyo,2022,8,3,2022-08
+La Rioja,Cuyo,2022,9,2,2022-09
+La Rioja,Cuyo,2022,10,7,2022-10
+La Rioja,Cuyo,2022,11,6,2022-11
+La Rioja,Cuyo,2022,12,2,2022-12
+Mendoza,Cuyo,2017,1,16,2017-01
+Mendoza,Cuyo,2017,2,22,2017-02
+Mendoza,Cuyo,2017,3,20,2017-03
+Mendoza,Cuyo,2017,4,14,2017-04
+Mendoza,Cuyo,2017,5,12,2017-05
+Mendoza,Cuyo,2017,6,18,2017-06
+Mendoza,Cuyo,2017,7,16,2017-07
+Mendoza,Cuyo,2017,8,9,2017-08
+Mendoza,Cuyo,2017,9,10,2017-09
+Mendoza,Cuyo,2017,10,17,2017-10
+Mendoza,Cuyo,2017,11,16,2017-11
+Mendoza,Cuyo,2017,12,20,2017-12
+Mendoza,Cuyo,2018,1,9,2018-01
+Mendoza,Cuyo,2018,2,18,2018-02
+Mendoza,Cuyo,2018,3,16,2018-03
+Mendoza,Cuyo,2018,4,14,2018-04
+Mendoza,Cuyo,2018,5,15,2018-05
+Mendoza,Cuyo,2018,6,11,2018-06
+Mendoza,Cuyo,2018,7,18,2018-07
+Mendoza,Cuyo,2018,8,26,2018-08
+Mendoza,Cuyo,2018,9,16,2018-09
+Mendoza,Cuyo,2018,10,17,2018-10
+Mendoza,Cuyo,2018,11,18,2018-11
+Mendoza,Cuyo,2018,12,17,2018-12
+Mendoza,Cuyo,2019,1,29,2019-01
+Mendoza,Cuyo,2019,2,13,2019-02
+Mendoza,Cuyo,2019,3,17,2019-03
+Mendoza,Cuyo,2019,4,16,2019-04
+Mendoza,Cuyo,2019,5,14,2019-05
+Mendoza,Cuyo,2019,6,15,2019-06
+Mendoza,Cuyo,2019,7,16,2019-07
+Mendoza,Cuyo,2019,8,9,2019-08
+Mendoza,Cuyo,2019,9,10,2019-09
+Mendoza,Cuyo,2019,10,19,2019-10
+Mendoza,Cuyo,2019,11,15,2019-11
+Mendoza,Cuyo,2019,12,16,2019-12
+Mendoza,Cuyo,2020,1,28,2020-01
+Mendoza,Cuyo,2020,2,14,2020-02
+Mendoza,Cuyo,2020,3,15,2020-03
+Mendoza,Cuyo,2020,4,15,2020-04
+Mendoza,Cuyo,2020,5,17,2020-05
+Mendoza,Cuyo,2020,6,8,2020-06
+Mendoza,Cuyo,2020,7,19,2020-07
+Mendoza,Cuyo,2020,8,8,2020-08
+Mendoza,Cuyo,2020,9,8,2020-09
+Mendoza,Cuyo,2020,10,17,2020-10
+Mendoza,Cuyo,2020,11,23,2020-11
+Mendoza,Cuyo,2020,12,21,2020-12
+Mendoza,Cuyo,2021,1,9,2021-01
+Mendoza,Cuyo,2021,2,19,2021-02
+Mendoza,Cuyo,2021,3,21,2021-03
+Mendoza,Cuyo,2021,4,15,2021-04
+Mendoza,Cuyo,2021,5,17,2021-05
+Mendoza,Cuyo,2021,6,16,2021-06
+Mendoza,Cuyo,2021,7,6,2021-07
+Mendoza,Cuyo,2021,8,17,2021-08
+Mendoza,Cuyo,2021,9,24,2021-09
+Mendoza,Cuyo,2021,10,16,2021-10
+Mendoza,Cuyo,2021,11,12,2021-11
+Mendoza,Cuyo,2021,12,23,2021-12
+Mendoza,Cuyo,2022,1,26,2022-01
+Mendoza,Cuyo,2022,2,16,2022-02
+Mendoza,Cuyo,2022,3,25,2022-03
+Mendoza,Cuyo,2022,4,14,2022-04
+Mendoza,Cuyo,2022,5,13,2022-05
+Mendoza,Cuyo,2022,6,14,2022-06
+Mendoza,Cuyo,2022,7,13,2022-07
+Mendoza,Cuyo,2022,8,21,2022-08
+Mendoza,Cuyo,2022,9,21,2022-09
+Mendoza,Cuyo,2022,10,13,2022-10
+Mendoza,Cuyo,2022,11,12,2022-11
+Mendoza,Cuyo,2022,12,29,2022-12
+Misiones,NEA,2017,1,7,2017-01
+Misiones,NEA,2017,2,7,2017-02
+Misiones,NEA,2017,3,9,2017-03
+Misiones,NEA,2017,4,2,2017-04
+Misiones,NEA,2017,5,4,2017-05
+Misiones,NEA,2017,6,8,2017-06
+Misiones,NEA,2017,7,5,2017-07
+Misiones,NEA,2017,8,10,2017-08
+Misiones,NEA,2017,9,6,2017-09
+Misiones,NEA,2017,10,3,2017-10
+Misiones,NEA,2017,11,10,2017-11
+Misiones,NEA,2017,12,9,2017-12
+Misiones,NEA,2018,1,6,2018-01
+Misiones,NEA,2018,2,7,2018-02
+Misiones,NEA,2018,3,7,2018-03
+Misiones,NEA,2018,4,3,2018-04
+Misiones,NEA,2018,5,5,2018-05
+Misiones,NEA,2018,6,3,2018-06
+Misiones,NEA,2018,7,9,2018-07
+Misiones,NEA,2018,8,3,2018-08
+Misiones,NEA,2018,9,7,2018-09
+Misiones,NEA,2018,10,6,2018-10
+Misiones,NEA,2018,11,9,2018-11
+Misiones,NEA,2018,12,5,2018-12
+Misiones,NEA,2019,1,7,2019-01
+Misiones,NEA,2019,2,7,2019-02
+Misiones,NEA,2019,3,14,2019-03
+Misiones,NEA,2019,4,9,2019-04
+Misiones,NEA,2019,5,5,2019-05
+Misiones,NEA,2019,6,2,2019-06
+Misiones,NEA,2019,7,7,2019-07
+Misiones,NEA,2019,8,7,2019-08
+Misiones,NEA,2019,9,6,2019-09
+Misiones,NEA,2019,10,5,2019-10
+Misiones,NEA,2019,11,8,2019-11
+Misiones,NEA,2019,12,6,2019-12
+Misiones,NEA,2020,1,10,2020-01
+Misiones,NEA,2020,2,6,2020-02
+Misiones,NEA,2020,3,10,2020-03
+Misiones,NEA,2020,4,8,2020-04
+Misiones,NEA,2020,5,6,2020-05
+Misiones,NEA,2020,6,6,2020-06
+Misiones,NEA,2020,7,9,2020-07
+Misiones,NEA,2020,8,14,2020-08
+Misiones,NEA,2020,9,13,2020-09
+Misiones,NEA,2020,10,10,2020-10
+Misiones,NEA,2020,11,13,2020-11
+Misiones,NEA,2020,12,13,2020-12
+Misiones,NEA,2021,1,12,2021-01
+Misiones,NEA,2021,2,7,2021-02
+Misiones,NEA,2021,3,10,2021-03
+Misiones,NEA,2021,4,4,2021-04
+Misiones,NEA,2021,5,4,2021-05
+Misiones,NEA,2021,6,8,2021-06
+Misiones,NEA,2021,7,7,2021-07
+Misiones,NEA,2021,8,9,2021-08
+Misiones,NEA,2021,9,7,2021-09
+Misiones,NEA,2021,10,8,2021-10
+Misiones,NEA,2021,11,7,2021-11
+Misiones,NEA,2021,12,7,2021-12
+Misiones,NEA,2022,1,11,2022-01
+Misiones,NEA,2022,2,8,2022-02
+Misiones,NEA,2022,3,9,2022-03
+Misiones,NEA,2022,4,9,2022-04
+Misiones,NEA,2022,5,4,2022-05
+Misiones,NEA,2022,6,7,2022-06
+Misiones,NEA,2022,7,7,2022-07
+Misiones,NEA,2022,8,3,2022-08
+Misiones,NEA,2022,9,7,2022-09
+Misiones,NEA,2022,10,12,2022-10
+Misiones,NEA,2022,11,7,2022-11
+Misiones,NEA,2022,12,13,2022-12
+Neuquén,Patagonia,2017,1,5,2017-01
+Neuquén,Patagonia,2017,2,6,2017-02
+Neuquén,Patagonia,2017,3,7,2017-03
+Neuquén,Patagonia,2017,4,3,2017-04
+Neuquén,Patagonia,2017,5,8,2017-05
+Neuquén,Patagonia,2017,6,2,2017-06
+Neuquén,Patagonia,2017,7,4,2017-07
+Neuquén,Patagonia,2017,8,5,2017-08
+Neuquén,Patagonia,2017,9,11,2017-09
+Neuquén,Patagonia,2017,10,7,2017-10
+Neuquén,Patagonia,2017,11,6,2017-11
+Neuquén,Patagonia,2017,12,3,2017-12
+Neuquén,Patagonia,2018,1,6,2018-01
+Neuquén,Patagonia,2018,2,9,2018-02
+Neuquén,Patagonia,2018,3,8,2018-03
+Neuquén,Patagonia,2018,4,2,2018-04
+Neuquén,Patagonia,2018,5,3,2018-05
+Neuquén,Patagonia,2018,6,5,2018-06
+Neuquén,Patagonia,2018,7,7,2018-07
+Neuquén,Patagonia,2018,8,10,2018-08
+Neuquén,Patagonia,2018,9,4,2018-09
+Neuquén,Patagonia,2018,10,3,2018-10
+Neuquén,Patagonia,2018,11,7,2018-11
+Neuquén,Patagonia,2018,12,6,2018-12
+Neuquén,Patagonia,2019,1,6,2019-01
+Neuquén,Patagonia,2019,2,5,2019-02
+Neuquén,Patagonia,2019,3,7,2019-03
+Neuquén,Patagonia,2019,4,3,2019-04
+Neuquén,Patagonia,2019,5,6,2019-05
+Neuquén,Patagonia,2019,6,5,2019-06
+Neuquén,Patagonia,2019,7,5,2019-07
+Neuquén,Patagonia,2019,8,6,2019-08
+Neuquén,Patagonia,2019,9,3,2019-09
+Neuquén,Patagonia,2019,10,2,2019-10
+Neuquén,Patagonia,2019,11,6,2019-11
+Neuquén,Patagonia,2019,12,9,2019-12
+Neuquén,Patagonia,2020,1,9,2020-01
+Neuquén,Patagonia,2020,2,4,2020-02
+Neuquén,Patagonia,2020,3,2,2020-03
+Neuquén,Patagonia,2020,4,5,2020-04
+Neuquén,Patagonia,2020,5,5,2020-05
+Neuquén,Patagonia,2020,6,3,2020-06
+Neuquén,Patagonia,2020,7,6,2020-07
+Neuquén,Patagonia,2020,8,2,2020-08
+Neuquén,Patagonia,2020,9,5,2020-09
+Neuquén,Patagonia,2020,10,4,2020-10
+Neuquén,Patagonia,2020,11,5,2020-11
+Neuquén,Patagonia,2020,12,2,2020-12
+Neuquén,Patagonia,2021,1,7,2021-01
+Neuquén,Patagonia,2021,2,5,2021-02
+Neuquén,Patagonia,2021,3,4,2021-03
+Neuquén,Patagonia,2021,4,7,2021-04
+Neuquén,Patagonia,2021,5,3,2021-05
+Neuquén,Patagonia,2021,6,6,2021-06
+Neuquén,Patagonia,2021,7,4,2021-07
+Neuquén,Patagonia,2021,8,9,2021-08
+Neuquén,Patagonia,2021,9,6,2021-09
+Neuquén,Patagonia,2021,10,5,2021-10
+Neuquén,Patagonia,2021,11,5,2021-11
+Neuquén,Patagonia,2021,12,4,2021-12
+Neuquén,Patagonia,2022,1,3,2022-01
+Neuquén,Patagonia,2022,2,5,2022-02
+Neuquén,Patagonia,2022,3,2,2022-03
+Neuquén,Patagonia,2022,4,4,2022-04
+Neuquén,Patagonia,2022,5,3,2022-05
+Neuquén,Patagonia,2022,6,3,2022-06
+Neuquén,Patagonia,2022,7,3,2022-07
+Neuquén,Patagonia,2022,8,4,2022-08
+Neuquén,Patagonia,2022,9,6,2022-09
+Neuquén,Patagonia,2022,10,5,2022-10
+Neuquén,Patagonia,2022,11,7,2022-11
+Neuquén,Patagonia,2022,12,4,2022-12
+Río Negro,Patagonia,2017,1,2,2017-01
+Río Negro,Patagonia,2017,2,4,2017-02
+Río Negro,Patagonia,2017,3,3,2017-03
+Río Negro,Patagonia,2017,4,5,2017-04
+Río Negro,Patagonia,2017,6,6,2017-06
+Río Negro,Patagonia,2017,7,3,2017-07
+Río Negro,Patagonia,2017,8,3,2017-08
+Río Negro,Patagonia,2017,9,8,2017-09
+Río Negro,Patagonia,2017,10,2,2017-10
+Río Negro,Patagonia,2017,11,2,2017-11
+Río Negro,Patagonia,2017,12,4,2017-12
+Río Negro,Patagonia,2018,1,3,2018-01
+Río Negro,Patagonia,2018,2,3,2018-02
+Río Negro,Patagonia,2018,3,3,2018-03
+Río Negro,Patagonia,2018,4,1,2018-04
+Río Negro,Patagonia,2018,5,5,2018-05
+Río Negro,Patagonia,2018,6,3,2018-06
+Río Negro,Patagonia,2018,7,6,2018-07
+Río Negro,Patagonia,2018,8,1,2018-08
+Río Negro,Patagonia,2018,9,4,2018-09
+Río Negro,Patagonia,2018,10,5,2018-10
+Río Negro,Patagonia,2018,11,3,2018-11
+Río Negro,Patagonia,2018,12,5,2018-12
+Río Negro,Patagonia,2019,1,7,2019-01
+Río Negro,Patagonia,2019,2,7,2019-02
+Río Negro,Patagonia,2019,3,6,2019-03
+Río Negro,Patagonia,2019,4,6,2019-04
+Río Negro,Patagonia,2019,5,5,2019-05
+Río Negro,Patagonia,2019,6,1,2019-06
+Río Negro,Patagonia,2019,7,2,2019-07
+Río Negro,Patagonia,2019,8,6,2019-08
+Río Negro,Patagonia,2019,9,4,2019-09
+Río Negro,Patagonia,2019,10,7,2019-10
+Río Negro,Patagonia,2019,11,4,2019-11
+Río Negro,Patagonia,2019,12,5,2019-12
+Río Negro,Patagonia,2020,1,6,2020-01
+Río Negro,Patagonia,2020,2,1,2020-02
+Río Negro,Patagonia,2020,3,3,2020-03
+Río Negro,Patagonia,2020,5,4,2020-05
+Río Negro,Patagonia,2020,6,1,2020-06
+Río Negro,Patagonia,2020,7,2,2020-07
+Río Negro,Patagonia,2020,8,2,2020-08
+Río Negro,Patagonia,2020,9,2,2020-09
+Río Negro,Patagonia,2020,10,4,2020-10
+Río Negro,Patagonia,2020,11,4,2020-11
+Río Negro,Patagonia,2020,12,5,2020-12
+Río Negro,Patagonia,2021,1,7,2021-01
+Río Negro,Patagonia,2021,2,4,2021-02
+Río Negro,Patagonia,2021,3,4,2021-03
+Río Negro,Patagonia,2021,4,4,2021-04
+Río Negro,Patagonia,2021,5,6,2021-05
+Río Negro,Patagonia,2021,6,5,2021-06
+Río Negro,Patagonia,2021,7,4,2021-07
+Río Negro,Patagonia,2021,8,5,2021-08
+Río Negro,Patagonia,2021,9,5,2021-09
+Río Negro,Patagonia,2021,10,3,2021-10
+Río Negro,Patagonia,2021,11,4,2021-11
+Río Negro,Patagonia,2021,12,2,2021-12
+Río Negro,Patagonia,2022,1,2,2022-01
+Río Negro,Patagonia,2022,2,2,2022-02
+Río Negro,Patagonia,2022,3,6,2022-03
+Río Negro,Patagonia,2022,4,3,2022-04
+Río Negro,Patagonia,2022,5,3,2022-05
+Río Negro,Patagonia,2022,6,3,2022-06
+Río Negro,Patagonia,2022,7,5,2022-07
+Río Negro,Patagonia,2022,8,2,2022-08
+Río Negro,Patagonia,2022,9,3,2022-09
+Río Negro,Patagonia,2022,10,4,2022-10
+Río Negro,Patagonia,2022,11,5,2022-11
+Río Negro,Patagonia,2022,12,4,2022-12
+Salta,NOA,2017,1,17,2017-01
+Salta,NOA,2017,2,9,2017-02
+Salta,NOA,2017,3,15,2017-03
+Salta,NOA,2017,4,15,2017-04
+Salta,NOA,2017,5,20,2017-05
+Salta,NOA,2017,6,15,2017-06
+Salta,NOA,2017,7,13,2017-07
+Salta,NOA,2017,8,13,2017-08
+Salta,NOA,2017,9,15,2017-09
+Salta,NOA,2017,10,14,2017-10
+Salta,NOA,2017,11,8,2017-11
+Salta,NOA,2017,12,33,2017-12
+Salta,NOA,2018,1,12,2018-01
+Salta,NOA,2018,2,12,2018-02
+Salta,NOA,2018,3,11,2018-03
+Salta,NOA,2018,4,11,2018-04
+Salta,NOA,2018,5,8,2018-05
+Salta,NOA,2018,6,8,2018-06
+Salta,NOA,2018,7,10,2018-07
+Salta,NOA,2018,8,8,2018-08
+Salta,NOA,2018,9,16,2018-09
+Salta,NOA,2018,10,16,2018-10
+Salta,NOA,2018,11,23,2018-11
+Salta,NOA,2018,12,24,2018-12
+Salta,NOA,2019,1,18,2019-01
+Salta,NOA,2019,2,16,2019-02
+Salta,NOA,2019,3,12,2019-03
+Salta,NOA,2019,4,13,2019-04
+Salta,NOA,2019,5,15,2019-05
+Salta,NOA,2019,6,12,2019-06
+Salta,NOA,2019,7,14,2019-07
+Salta,NOA,2019,8,14,2019-08
+Salta,NOA,2019,9,14,2019-09
+Salta,NOA,2019,10,14,2019-10
+Salta,NOA,2019,11,11,2019-11
+Salta,NOA,2019,12,13,2019-12
+Salta,NOA,2020,1,20,2020-01
+Salta,NOA,2020,2,17,2020-02
+Salta,NOA,2020,3,13,2020-03
+Salta,NOA,2020,4,11,2020-04
+Salta,NOA,2020,5,16,2020-05
+Salta,NOA,2020,6,20,2020-06
+Salta,NOA,2020,7,14,2020-07
+Salta,NOA,2020,8,14,2020-08
+Salta,NOA,2020,9,16,2020-09
+Salta,NOA,2020,10,13,2020-10
+Salta,NOA,2020,11,15,2020-11
+Salta,NOA,2020,12,18,2020-12
+Salta,NOA,2021,1,22,2021-01
+Salta,NOA,2021,2,17,2021-02
+Salta,NOA,2021,3,13,2021-03
+Salta,NOA,2021,4,11,2021-04
+Salta,NOA,2021,5,20,2021-05
+Salta,NOA,2021,6,9,2021-06
+Salta,NOA,2021,7,7,2021-07
+Salta,NOA,2021,8,10,2021-08
+Salta,NOA,2021,9,16,2021-09
+Salta,NOA,2021,10,12,2021-10
+Salta,NOA,2021,11,17,2021-11
+Salta,NOA,2021,12,20,2021-12
+Salta,NOA,2022,1,15,2022-01
+Salta,NOA,2022,2,28,2022-02
+Salta,NOA,2022,3,21,2022-03
+Salta,NOA,2022,4,16,2022-04
+Salta,NOA,2022,5,15,2022-05
+Salta,NOA,2022,6,15,2022-06
+Salta,NOA,2022,7,7,2022-07
+Salta,NOA,2022,8,19,2022-08
+Salta,NOA,2022,9,11,2022-09
+Salta,NOA,2022,10,17,2022-10
+Salta,NOA,2022,11,23,2022-11
+Salta,NOA,2022,12,17,2022-12
+San Juan,Cuyo,2017,1,5,2017-01
+San Juan,Cuyo,2017,2,4,2017-02
+San Juan,Cuyo,2017,3,6,2017-03
+San Juan,Cuyo,2017,4,6,2017-04
+San Juan,Cuyo,2017,5,1,2017-05
+San Juan,Cuyo,2017,6,6,2017-06
+San Juan,Cuyo,2017,7,3,2017-07
+San Juan,Cuyo,2017,8,4,2017-08
+San Juan,Cuyo,2017,9,5,2017-09
+San Juan,Cuyo,2017,10,5,2017-10
+San Juan,Cuyo,2017,11,4,2017-11
+San Juan,Cuyo,2017,12,7,2017-12
+San Juan,Cuyo,2018,1,7,2018-01
+San Juan,Cuyo,2018,2,3,2018-02
+San Juan,Cuyo,2018,3,3,2018-03
+San Juan,Cuyo,2018,4,3,2018-04
+San Juan,Cuyo,2018,5,5,2018-05
+San Juan,Cuyo,2018,6,4,2018-06
+San Juan,Cuyo,2018,7,5,2018-07
+San Juan,Cuyo,2018,8,4,2018-08
+San Juan,Cuyo,2018,9,4,2018-09
+San Juan,Cuyo,2018,10,4,2018-10
+San Juan,Cuyo,2018,11,4,2018-11
+San Juan,Cuyo,2018,12,5,2018-12
+San Juan,Cuyo,2019,1,5,2019-01
+San Juan,Cuyo,2019,2,7,2019-02
+San Juan,Cuyo,2019,3,5,2019-03
+San Juan,Cuyo,2019,4,2,2019-04
+San Juan,Cuyo,2019,5,3,2019-05
+San Juan,Cuyo,2019,6,1,2019-06
+San Juan,Cuyo,2019,7,4,2019-07
+San Juan,Cuyo,2019,8,6,2019-08
+San Juan,Cuyo,2019,9,2,2019-09
+San Juan,Cuyo,2019,10,14,2019-10
+San Juan,Cuyo,2019,11,6,2019-11
+San Juan,Cuyo,2019,12,10,2019-12
+San Juan,Cuyo,2020,1,1,2020-01
+San Juan,Cuyo,2020,2,4,2020-02
+San Juan,Cuyo,2020,3,4,2020-03
+San Juan,Cuyo,2020,4,3,2020-04
+San Juan,Cuyo,2020,5,6,2020-05
+San Juan,Cuyo,2020,6,2,2020-06
+San Juan,Cuyo,2020,7,3,2020-07
+San Juan,Cuyo,2020,8,6,2020-08
+San Juan,Cuyo,2020,9,9,2020-09
+San Juan,Cuyo,2020,10,6,2020-10
+San Juan,Cuyo,2020,11,2,2020-11
+San Juan,Cuyo,2020,12,8,2020-12
+San Juan,Cuyo,2021,1,3,2021-01
+San Juan,Cuyo,2021,2,3,2021-02
+San Juan,Cuyo,2021,3,5,2021-03
+San Juan,Cuyo,2021,7,1,2021-07
+San Juan,Cuyo,2021,8,2,2021-08
+San Juan,Cuyo,2021,9,2,2021-09
+San Juan,Cuyo,2021,10,10,2021-10
+San Juan,Cuyo,2021,11,6,2021-11
+San Juan,Cuyo,2021,12,8,2021-12
+San Juan,Cuyo,2022,1,6,2022-01
+San Juan,Cuyo,2022,2,8,2022-02
+San Juan,Cuyo,2022,3,8,2022-03
+San Juan,Cuyo,2022,4,2,2022-04
+San Juan,Cuyo,2022,5,6,2022-05
+San Juan,Cuyo,2022,6,8,2022-06
+San Juan,Cuyo,2022,8,1,2022-08
+San Juan,Cuyo,2022,10,1,2022-10
+San Juan,Cuyo,2022,11,2,2022-11
+San Luis,Cuyo,2017,1,4,2017-01
+San Luis,Cuyo,2017,2,1,2017-02
+San Luis,Cuyo,2017,3,2,2017-03
+San Luis,Cuyo,2017,4,3,2017-04
+San Luis,Cuyo,2017,5,4,2017-05
+San Luis,Cuyo,2017,6,2,2017-06
+San Luis,Cuyo,2017,7,3,2017-07
+San Luis,Cuyo,2017,8,5,2017-08
+San Luis,Cuyo,2017,9,4,2017-09
+San Luis,Cuyo,2017,10,3,2017-10
+San Luis,Cuyo,2017,11,4,2017-11
+San Luis,Cuyo,2017,12,3,2017-12
+San Luis,Cuyo,2018,1,3,2018-01
+San Luis,Cuyo,2018,2,2,2018-02
+San Luis,Cuyo,2018,4,5,2018-04
+San Luis,Cuyo,2018,5,1,2018-05
+San Luis,Cuyo,2018,6,7,2018-06
+San Luis,Cuyo,2018,7,2,2018-07
+San Luis,Cuyo,2018,8,7,2018-08
+San Luis,Cuyo,2018,9,9,2018-09
+San Luis,Cuyo,2018,10,7,2018-10
+San Luis,Cuyo,2018,11,5,2018-11
+San Luis,Cuyo,2018,12,4,2018-12
+San Luis,Cuyo,2019,1,6,2019-01
+San Luis,Cuyo,2019,2,7,2019-02
+San Luis,Cuyo,2019,3,7,2019-03
+San Luis,Cuyo,2019,4,9,2019-04
+San Luis,Cuyo,2019,5,4,2019-05
+San Luis,Cuyo,2019,6,2,2019-06
+San Luis,Cuyo,2019,7,6,2019-07
+San Luis,Cuyo,2019,8,4,2019-08
+San Luis,Cuyo,2019,9,4,2019-09
+San Luis,Cuyo,2019,10,10,2019-10
+San Luis,Cuyo,2019,11,6,2019-11
+San Luis,Cuyo,2019,12,10,2019-12
+San Luis,Cuyo,2020,1,7,2020-01
+San Luis,Cuyo,2020,2,5,2020-02
+San Luis,Cuyo,2020,3,7,2020-03
+San Luis,Cuyo,2020,4,9,2020-04
+San Luis,Cuyo,2020,5,2,2020-05
+San Luis,Cuyo,2020,6,4,2020-06
+San Luis,Cuyo,2020,7,6,2020-07
+San Luis,Cuyo,2020,8,2,2020-08
+San Luis,Cuyo,2020,9,2,2020-09
+San Luis,Cuyo,2020,10,5,2020-10
+San Luis,Cuyo,2020,11,6,2020-11
+San Luis,Cuyo,2020,12,7,2020-12
+San Luis,Cuyo,2021,1,4,2021-01
+San Luis,Cuyo,2021,2,7,2021-02
+San Luis,Cuyo,2021,3,6,2021-03
+San Luis,Cuyo,2021,4,5,2021-04
+San Luis,Cuyo,2021,5,6,2021-05
+San Luis,Cuyo,2021,6,4,2021-06
+San Luis,Cuyo,2021,7,10,2021-07
+San Luis,Cuyo,2021,8,5,2021-08
+San Luis,Cuyo,2021,9,8,2021-09
+San Luis,Cuyo,2021,10,2,2021-10
+San Luis,Cuyo,2021,11,4,2021-11
+San Luis,Cuyo,2021,12,5,2021-12
+San Luis,Cuyo,2022,1,4,2022-01
+San Luis,Cuyo,2022,2,7,2022-02
+San Luis,Cuyo,2022,3,2,2022-03
+San Luis,Cuyo,2022,4,6,2022-04
+San Luis,Cuyo,2022,5,3,2022-05
+San Luis,Cuyo,2022,6,3,2022-06
+San Luis,Cuyo,2022,7,6,2022-07
+San Luis,Cuyo,2022,8,6,2022-08
+San Luis,Cuyo,2022,9,4,2022-09
+San Luis,Cuyo,2022,10,5,2022-10
+San Luis,Cuyo,2022,11,4,2022-11
+San Luis,Cuyo,2022,12,5,2022-12
+Santa Cruz,Patagonia,2017,1,5,2017-01
+Santa Cruz,Patagonia,2017,2,4,2017-02
+Santa Cruz,Patagonia,2017,3,4,2017-03
+Santa Cruz,Patagonia,2017,4,4,2017-04
+Santa Cruz,Patagonia,2017,5,3,2017-05
+Santa Cruz,Patagonia,2017,6,2,2017-06
+Santa Cruz,Patagonia,2017,7,3,2017-07
+Santa Cruz,Patagonia,2017,8,4,2017-08
+Santa Cruz,Patagonia,2017,9,2,2017-09
+Santa Cruz,Patagonia,2017,10,1,2017-10
+Santa Cruz,Patagonia,2017,11,4,2017-11
+Santa Cruz,Patagonia,2017,12,3,2017-12
+Santa Cruz,Patagonia,2018,1,3,2018-01
+Santa Cruz,Patagonia,2018,3,1,2018-03
+Santa Cruz,Patagonia,2018,4,7,2018-04
+Santa Cruz,Patagonia,2018,5,3,2018-05
+Santa Cruz,Patagonia,2018,6,2,2018-06
+Santa Cruz,Patagonia,2018,7,1,2018-07
+Santa Cruz,Patagonia,2018,8,5,2018-08
+Santa Cruz,Patagonia,2018,9,2,2018-09
+Santa Cruz,Patagonia,2018,10,6,2018-10
+Santa Cruz,Patagonia,2018,11,3,2018-11
+Santa Cruz,Patagonia,2018,12,4,2018-12
+Santa Cruz,Patagonia,2019,1,4,2019-01
+Santa Cruz,Patagonia,2019,2,2,2019-02
+Santa Cruz,Patagonia,2019,3,1,2019-03
+Santa Cruz,Patagonia,2019,4,3,2019-04
+Santa Cruz,Patagonia,2019,5,2,2019-05
+Santa Cruz,Patagonia,2019,6,2,2019-06
+Santa Cruz,Patagonia,2019,7,4,2019-07
+Santa Cruz,Patagonia,2019,8,1,2019-08
+Santa Cruz,Patagonia,2019,9,7,2019-09
+Santa Cruz,Patagonia,2019,10,5,2019-10
+Santa Cruz,Patagonia,2019,11,6,2019-11
+Santa Cruz,Patagonia,2019,12,2,2019-12
+Santa Cruz,Patagonia,2020,1,2,2020-01
+Santa Cruz,Patagonia,2020,2,6,2020-02
+Santa Cruz,Patagonia,2020,3,3,2020-03
+Santa Cruz,Patagonia,2020,4,1,2020-04
+Santa Cruz,Patagonia,2020,5,2,2020-05
+Santa Cruz,Patagonia,2020,6,4,2020-06
+Santa Cruz,Patagonia,2020,7,2,2020-07
+Santa Cruz,Patagonia,2020,8,2,2020-08
+Santa Cruz,Patagonia,2020,9,3,2020-09
+Santa Cruz,Patagonia,2020,10,3,2020-10
+Santa Cruz,Patagonia,2020,11,1,2020-11
+Santa Cruz,Patagonia,2020,12,4,2020-12
+Santa Cruz,Patagonia,2021,1,3,2021-01
+Santa Cruz,Patagonia,2021,2,5,2021-02
+Santa Cruz,Patagonia,2021,3,3,2021-03
+Santa Cruz,Patagonia,2021,4,7,2021-04
+Santa Cruz,Patagonia,2021,5,4,2021-05
+Santa Cruz,Patagonia,2021,6,7,2021-06
+Santa Cruz,Patagonia,2021,7,3,2021-07
+Santa Cruz,Patagonia,2021,8,4,2021-08
+Santa Cruz,Patagonia,2021,9,2,2021-09
+Santa Cruz,Patagonia,2021,10,1,2021-10
+Santa Cruz,Patagonia,2021,11,4,2021-11
+Santa Cruz,Patagonia,2021,12,6,2021-12
+Santa Cruz,Patagonia,2022,1,3,2022-01
+Santa Cruz,Patagonia,2022,2,3,2022-02
+Santa Cruz,Patagonia,2022,3,6,2022-03
+Santa Cruz,Patagonia,2022,4,2,2022-04
+Santa Cruz,Patagonia,2022,5,3,2022-05
+Santa Cruz,Patagonia,2022,6,1,2022-06
+Santa Cruz,Patagonia,2022,7,5,2022-07
+Santa Cruz,Patagonia,2022,8,1,2022-08
+Santa Cruz,Patagonia,2022,9,6,2022-09
+Santa Cruz,Patagonia,2022,10,4,2022-10
+Santa Cruz,Patagonia,2022,11,5,2022-11
+Santa Cruz,Patagonia,2022,12,4,2022-12
+Santa Fe,Centro,2017,1,33,2017-01
+Santa Fe,Centro,2017,2,26,2017-02
+Santa Fe,Centro,2017,3,21,2017-03
+Santa Fe,Centro,2017,4,29,2017-04
+Santa Fe,Centro,2017,5,28,2017-05
+Santa Fe,Centro,2017,6,34,2017-06
+Santa Fe,Centro,2017,7,31,2017-07
+Santa Fe,Centro,2017,8,35,2017-08
+Santa Fe,Centro,2017,9,26,2017-09
+Santa Fe,Centro,2017,10,32,2017-10
+Santa Fe,Centro,2017,11,38,2017-11
+Santa Fe,Centro,2017,12,40,2017-12
+Santa Fe,Centro,2018,1,31,2018-01
+Santa Fe,Centro,2018,2,34,2018-02
+Santa Fe,Centro,2018,3,32,2018-03
+Santa Fe,Centro,2018,4,28,2018-04
+Santa Fe,Centro,2018,5,18,2018-05
+Santa Fe,Centro,2018,6,23,2018-06
+Santa Fe,Centro,2018,7,22,2018-07
+Santa Fe,Centro,2018,8,38,2018-08
+Santa Fe,Centro,2018,9,35,2018-09
+Santa Fe,Centro,2018,10,31,2018-10
+Santa Fe,Centro,2018,11,36,2018-11
+Santa Fe,Centro,2018,12,32,2018-12
+Santa Fe,Centro,2019,1,35,2019-01
+Santa Fe,Centro,2019,2,26,2019-02
+Santa Fe,Centro,2019,3,35,2019-03
+Santa Fe,Centro,2019,4,31,2019-04
+Santa Fe,Centro,2019,5,32,2019-05
+Santa Fe,Centro,2019,6,18,2019-06
+Santa Fe,Centro,2019,7,31,2019-07
+Santa Fe,Centro,2019,8,29,2019-08
+Santa Fe,Centro,2019,9,23,2019-09
+Santa Fe,Centro,2019,10,20,2019-10
+Santa Fe,Centro,2019,11,30,2019-11
+Santa Fe,Centro,2019,12,41,2019-12
+Santa Fe,Centro,2020,1,31,2020-01
+Santa Fe,Centro,2020,2,32,2020-02
+Santa Fe,Centro,2020,3,39,2020-03
+Santa Fe,Centro,2020,4,14,2020-04
+Santa Fe,Centro,2020,5,23,2020-05
+Santa Fe,Centro,2020,6,26,2020-06
+Santa Fe,Centro,2020,7,27,2020-07
+Santa Fe,Centro,2020,8,17,2020-08
+Santa Fe,Centro,2020,9,29,2020-09
+Santa Fe,Centro,2020,10,22,2020-10
+Santa Fe,Centro,2020,11,23,2020-11
+Santa Fe,Centro,2020,12,30,2020-12
+Santa Fe,Centro,2021,1,37,2021-01
+Santa Fe,Centro,2021,2,24,2021-02
+Santa Fe,Centro,2021,3,20,2021-03
+Santa Fe,Centro,2021,4,24,2021-04
+Santa Fe,Centro,2021,5,16,2021-05
+Santa Fe,Centro,2021,6,20,2021-06
+Santa Fe,Centro,2021,7,22,2021-07
+Santa Fe,Centro,2021,8,33,2021-08
+Santa Fe,Centro,2021,9,18,2021-09
+Santa Fe,Centro,2021,10,31,2021-10
+Santa Fe,Centro,2021,11,26,2021-11
+Santa Fe,Centro,2021,12,37,2021-12
+Santa Fe,Centro,2022,1,33,2022-01
+Santa Fe,Centro,2022,2,26,2022-02
+Santa Fe,Centro,2022,3,23,2022-03
+Santa Fe,Centro,2022,4,28,2022-04
+Santa Fe,Centro,2022,5,27,2022-05
+Santa Fe,Centro,2022,6,22,2022-06
+Santa Fe,Centro,2022,7,30,2022-07
+Santa Fe,Centro,2022,8,34,2022-08
+Santa Fe,Centro,2022,9,25,2022-09
+Santa Fe,Centro,2022,10,28,2022-10
+Santa Fe,Centro,2022,11,36,2022-11
+Santa Fe,Centro,2022,12,37,2022-12
+Santiago del Estero,NOA,2017,1,11,2017-01
+Santiago del Estero,NOA,2017,2,7,2017-02
+Santiago del Estero,NOA,2017,3,10,2017-03
+Santiago del Estero,NOA,2017,4,9,2017-04
+Santiago del Estero,NOA,2017,5,8,2017-05
+Santiago del Estero,NOA,2017,6,8,2017-06
+Santiago del Estero,NOA,2017,7,8,2017-07
+Santiago del Estero,NOA,2017,8,11,2017-08
+Santiago del Estero,NOA,2017,9,6,2017-09
+Santiago del Estero,NOA,2017,10,13,2017-10
+Santiago del Estero,NOA,2017,11,10,2017-11
+Santiago del Estero,NOA,2017,12,11,2017-12
+Santiago del Estero,NOA,2018,1,13,2018-01
+Santiago del Estero,NOA,2018,2,5,2018-02
+Santiago del Estero,NOA,2018,3,8,2018-03
+Santiago del Estero,NOA,2018,4,8,2018-04
+Santiago del Estero,NOA,2018,5,13,2018-05
+Santiago del Estero,NOA,2018,6,5,2018-06
+Santiago del Estero,NOA,2018,7,12,2018-07
+Santiago del Estero,NOA,2018,8,8,2018-08
+Santiago del Estero,NOA,2018,9,11,2018-09
+Santiago del Estero,NOA,2018,10,13,2018-10
+Santiago del Estero,NOA,2018,11,12,2018-11
+Santiago del Estero,NOA,2018,12,8,2018-12
+Santiago del Estero,NOA,2019,1,15,2019-01
+Santiago del Estero,NOA,2019,2,7,2019-02
+Santiago del Estero,NOA,2019,3,9,2019-03
+Santiago del Estero,NOA,2019,4,10,2019-04
+Santiago del Estero,NOA,2019,5,11,2019-05
+Santiago del Estero,NOA,2019,6,10,2019-06
+Santiago del Estero,NOA,2019,7,12,2019-07
+Santiago del Estero,NOA,2019,8,11,2019-08
+Santiago del Estero,NOA,2019,9,15,2019-09
+Santiago del Estero,NOA,2019,10,15,2019-10
+Santiago del Estero,NOA,2019,11,10,2019-11
+Santiago del Estero,NOA,2019,12,9,2019-12
+Santiago del Estero,NOA,2020,1,13,2020-01
+Santiago del Estero,NOA,2020,2,18,2020-02
+Santiago del Estero,NOA,2020,3,5,2020-03
+Santiago del Estero,NOA,2020,4,14,2020-04
+Santiago del Estero,NOA,2020,5,5,2020-05
+Santiago del Estero,NOA,2020,6,7,2020-06
+Santiago del Estero,NOA,2020,7,10,2020-07
+Santiago del Estero,NOA,2020,8,10,2020-08
+Santiago del Estero,NOA,2020,9,13,2020-09
+Santiago del Estero,NOA,2020,10,6,2020-10
+Santiago del Estero,NOA,2020,11,10,2020-11
+Santiago del Estero,NOA,2020,12,6,2020-12
+Santiago del Estero,NOA,2021,1,8,2021-01
+Santiago del Estero,NOA,2021,2,8,2021-02
+Santiago del Estero,NOA,2021,3,5,2021-03
+Santiago del Estero,NOA,2021,4,6,2021-04
+Santiago del Estero,NOA,2021,5,5,2021-05
+Santiago del Estero,NOA,2021,6,1,2021-06
+Santiago del Estero,NOA,2021,7,6,2021-07
+Santiago del Estero,NOA,2021,8,7,2021-08
+Santiago del Estero,NOA,2021,9,12,2021-09
+Santiago del Estero,NOA,2021,10,15,2021-10
+Santiago del Estero,NOA,2021,11,6,2021-11
+Santiago del Estero,NOA,2021,12,15,2021-12
+Santiago del Estero,NOA,2022,1,11,2022-01
+Santiago del Estero,NOA,2022,2,11,2022-02
+Santiago del Estero,NOA,2022,3,13,2022-03
+Santiago del Estero,NOA,2022,4,8,2022-04
+Santiago del Estero,NOA,2022,5,9,2022-05
+Santiago del Estero,NOA,2022,6,8,2022-06
+Santiago del Estero,NOA,2022,7,9,2022-07
+Santiago del Estero,NOA,2022,8,9,2022-08
+Santiago del Estero,NOA,2022,9,18,2022-09
+Santiago del Estero,NOA,2022,10,10,2022-10
+Santiago del Estero,NOA,2022,11,8,2022-11
+Santiago del Estero,NOA,2022,12,12,2022-12
+Tucumán,NOA,2017,1,6,2017-01
+Tucumán,NOA,2017,2,3,2017-02
+Tucumán,NOA,2017,3,6,2017-03
+Tucumán,NOA,2017,4,6,2017-04
+Tucumán,NOA,2017,5,8,2017-05
+Tucumán,NOA,2017,6,11,2017-06
+Tucumán,NOA,2017,7,9,2017-07
+Tucumán,NOA,2017,8,11,2017-08
+Tucumán,NOA,2017,9,3,2017-09
+Tucumán,NOA,2017,10,13,2017-10
+Tucumán,NOA,2017,11,6,2017-11
+Tucumán,NOA,2017,12,7,2017-12
+Tucumán,NOA,2018,1,13,2018-01
+Tucumán,NOA,2018,2,6,2018-02
+Tucumán,NOA,2018,3,6,2018-03
+Tucumán,NOA,2018,4,8,2018-04
+Tucumán,NOA,2018,5,5,2018-05
+Tucumán,NOA,2018,6,9,2018-06
+Tucumán,NOA,2018,7,12,2018-07
+Tucumán,NOA,2018,8,10,2018-08
+Tucumán,NOA,2018,9,10,2018-09
+Tucumán,NOA,2018,10,8,2018-10
+Tucumán,NOA,2018,11,12,2018-11
+Tucumán,NOA,2018,12,10,2018-12
+Tucumán,NOA,2019,1,10,2019-01
+Tucumán,NOA,2019,2,7,2019-02
+Tucumán,NOA,2019,3,6,2019-03
+Tucumán,NOA,2019,4,12,2019-04
+Tucumán,NOA,2019,5,13,2019-05
+Tucumán,NOA,2019,6,9,2019-06
+Tucumán,NOA,2019,7,11,2019-07
+Tucumán,NOA,2019,8,6,2019-08
+Tucumán,NOA,2019,9,13,2019-09
+Tucumán,NOA,2019,10,8,2019-10
+Tucumán,NOA,2019,11,11,2019-11
+Tucumán,NOA,2019,12,11,2019-12
+Tucumán,NOA,2020,1,6,2020-01
+Tucumán,NOA,2020,2,14,2020-02
+Tucumán,NOA,2020,3,17,2020-03
+Tucumán,NOA,2020,4,13,2020-04
+Tucumán,NOA,2020,5,6,2020-05
+Tucumán,NOA,2020,6,11,2020-06
+Tucumán,NOA,2020,7,8,2020-07
+Tucumán,NOA,2020,8,9,2020-08
+Tucumán,NOA,2020,9,9,2020-09
+Tucumán,NOA,2020,10,11,2020-10
+Tucumán,NOA,2020,11,9,2020-11
+Tucumán,NOA,2020,12,7,2020-12
+Tucumán,NOA,2021,1,9,2021-01
+Tucumán,NOA,2021,2,7,2021-02
+Tucumán,NOA,2021,3,3,2021-03
+Tucumán,NOA,2021,4,9,2021-04
+Tucumán,NOA,2021,5,13,2021-05
+Tucumán,NOA,2021,6,15,2021-06
+Tucumán,NOA,2021,7,5,2021-07
+Tucumán,NOA,2021,8,6,2021-08
+Tucumán,NOA,2021,9,22,2021-09
+Tucumán,NOA,2021,10,22,2021-10
+Tucumán,NOA,2021,11,20,2021-11
+Tucumán,NOA,2021,12,28,2021-12
+Tucumán,NOA,2022,1,16,2022-01
+Tucumán,NOA,2022,2,17,2022-02
+Tucumán,NOA,2022,3,11,2022-03
+Tucumán,NOA,2022,4,14,2022-04
+Tucumán,NOA,2022,5,14,2022-05
+Tucumán,NOA,2022,6,10,2022-06
+Tucumán,NOA,2022,7,18,2022-07
+Tucumán,NOA,2022,8,8,2022-08
+Tucumán,NOA,2022,9,3,2022-09
+Tucumán,NOA,2022,10,7,2022-10
+Tucumán,NOA,2022,11,12,2022-11
+Tucumán,NOA,2022,12,13,2022-12

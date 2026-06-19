@@ -1,0 +1,4 @@
+# Dependencias para ejecutar la página web (app.py)
+streamlit>=1.40
+pandas>=2.2
+plotly>=5.22

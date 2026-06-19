@@ -1,0 +1,24 @@
+provincia,region,lat,lon,prob_alerta,prob_pct,estado,nivel_orden,casos_historico
+Formosa,NEA,-26.18,-58.17,0.7004,70.0,Alerta alta,3,370
+Tucumán,NOA,-26.82,-65.22,0.695,69.5,Alerta alta,3,722
+Chaco,NEA,-27.45,-58.99,0.6946,69.5,Alerta alta,3,615
+Santiago del Estero,NOA,-27.8,-64.26,0.6269,62.7,Alerta alta,3,671
+Buenos Aires,Centro,-36.5,-59.8,0.5986,59.9,Atención,2,5905
+Santa Fe,Centro,-31.63,-60.7,0.5643,56.4,Atención,2,1974
+Neuquén,Patagonia,-38.95,-68.06,0.5499,55.0,Atención,2,348
+Mendoza,Cuyo,-32.89,-68.84,0.5241,52.4,Atención,2,1121
+San Luis,Cuyo,-33.3,-66.34,0.5183,51.8,Atención,2,341
+Córdoba,Centro,-31.42,-64.18,0.4804,48.0,Atención,2,1389
+San Juan,Cuyo,-31.54,-68.54,0.4652,46.5,Atención,2,293
+Corrientes,NEA,-27.47,-58.83,0.4014,40.1,Atención,2,405
+Río Negro,Patagonia,-40.81,-63.0,0.3951,39.5,Atención,2,264
+Salta,NOA,-24.79,-65.41,0.3881,38.8,Atención,2,1036
+Santa Cruz,Patagonia,-51.62,-69.22,0.3877,38.8,Atención,2,227
+Misiones,NEA,-27.36,-55.9,0.3869,38.7,Atención,2,515
+Ciudad Autónoma de Buenos Aires,Centro,-34.61,-58.38,0.3868,38.7,Atención,2,1211
+Jujuy,NOA,-24.19,-65.3,0.3682,36.8,Atención,2,272
+Catamarca,NOA,-28.47,-65.78,0.3404,34.0,Normal,1,238
+Entre Ríos,Centro,-31.73,-60.53,0.3084,30.8,Normal,1,1248
+La Pampa,Centro,-36.62,-64.29,0.3059,30.6,Normal,1,229
+Chubut,Patagonia,-43.3,-65.1,0.2064,20.6,Normal,1,344
+La Rioja,Cuyo,-29.41,-66.86,0.1842,18.4,Normal,1,250
