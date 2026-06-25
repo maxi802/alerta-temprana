@@ -51,6 +51,11 @@ def cargar(nombre):
     return pd.read_csv(f"data/{nombre}")
 
 
+@st.cache_data
+def cargar_idx(nombre):
+    return pd.read_csv(f"data/{nombre}", index_col=0)
+
+
 try:
     tablero = cargar("tablero_provincias.csv")
     serie = cargar("serie_mensual.csv")
@@ -58,6 +63,12 @@ try:
     demo = cargar("resumen_demografico.csv")
     metricas = cargar("metricas_modelos.csv")
     importancia = cargar("importancia_variables.csv")
+    perfiles_v = cargar("perfiles_victima.csv")
+    corr_pearson = cargar_idx("correlacion_pearson.csv")
+    corr_spearman = cargar_idx("correlacion_spearman.csv")
+    corr_cramers = cargar_idx("correlacion_cramersv.csv")
+    atributos = cargar("atributos_modelo.csv")
+    config_mod = cargar("config_modelos.csv")
 except FileNotFoundError:
     st.error("No se encontraron los archivos de la carpeta **data/**. "
              "Ejecutá primero  `python preparar_datos.py`  para generarlos.")
@@ -247,6 +258,43 @@ with tab_eda:
         "edad_media": "Edad media", "prop_masc": "% Masculino"})
     st.dataframe(rp, width="stretch", hide_index=True, height=420)
 
+    st.markdown("---")
+    st.subheader("Perfiles de víctima (K-Modes)")
+    st.caption("Como las variables que describen a la víctima son categóricas, el agrupamiento se hizo con "
+               "**K-Modes** (no K-Means). Cada perfil es la combinación más frecuente —la moda— de cada atributo.")
+    pv = perfiles_v.rename(columns={
+        "perfil": "Perfil", "casos": "Casos", "sexo": "Sexo", "grupo_etario": "Grupo etario",
+        "modalidad": "Modalidad", "tipo_lugar": "Lugar", "franja_horaria": "Franja horaria",
+        "fin_de_semana": "Fin de semana"})
+    st.dataframe(pv, width="stretch", hide_index=True)
+
+    st.markdown("---")
+    st.subheader("Correlaciones según el tipo de variable")
+    st.caption("Cada tipo de variable usa el método adecuado: **Pearson** para numéricas, **Spearman** para "
+               "ordinales y **V de Cramér** para categóricas. No hay asociaciones fuertes entre variables "
+               "independientes, por lo que el modelo combina varias.")
+    cc1, cc2, cc3 = st.columns([1, 1, 1.5])
+    with cc1:
+        st.markdown("**Pearson — numéricas**")
+        fp = px.imshow(corr_pearson, text_auto=".2f", color_continuous_scale="RdBu_r",
+                       zmin=-1, zmax=1, aspect="auto")
+        fp.update_layout(height=300, margin=dict(l=0, r=0, t=10, b=0), coloraxis_showscale=False)
+        st.plotly_chart(fp, width="stretch")
+    with cc2:
+        st.markdown("**Spearman — ordinales**")
+        fsp = px.imshow(corr_spearman, text_auto=".2f", color_continuous_scale="RdBu_r",
+                        zmin=-1, zmax=1, aspect="auto")
+        fsp.update_layout(height=300, margin=dict(l=0, r=0, t=10, b=0), coloraxis_showscale=False)
+        st.plotly_chart(fsp, width="stretch")
+    with cc3:
+        st.markdown("**V de Cramér — categóricas**")
+        fcr = px.imshow(corr_cramers, text_auto=".2f", color_continuous_scale="YlGnBu",
+                        zmin=0, zmax=1, aspect="auto")
+        fcr.update_layout(height=300, margin=dict(l=0, r=0, t=10, b=0), coloraxis_showscale=False)
+        st.plotly_chart(fcr, width="stretch")
+    st.caption("Las asociaciones de valor 1 (provincia–región, día–fin de semana) son relaciones por "
+               "construcción y sirven como verificación del método.")
+
 
 # ============================== TAB 4: MODELO ==============================
 with tab_modelo:
@@ -271,10 +319,11 @@ with tab_modelo:
         st.plotly_chart(figF, width="stretch")
 
     st.subheader("Tabla comparativa")
-    tabla_met = met[["modelo", "Balanceo", "accuracy", "precision", "recall", "f1", "roc_auc", "pr_auc"]]
+    tabla_met = met[["modelo", "Balanceo", "accuracy", "precision", "recall", "f1", "roc_auc", "pr_auc", "tiempo_seg"]]
     tabla_met = tabla_met.rename(columns={
         "modelo": "Modelo", "accuracy": "Accuracy", "precision": "Precisión",
-        "recall": "Recall", "f1": "F1", "roc_auc": "ROC-AUC", "pr_auc": "PR-AUC"})
+        "recall": "Recall", "f1": "F1", "roc_auc": "ROC-AUC", "pr_auc": "PR-AUC",
+        "tiempo_seg": "Tiempo (s)"})
 
     # Degradé verde en la columna F1, sin depender de matplotlib
     def resaltar_f1(col):
@@ -290,9 +339,12 @@ with tab_modelo:
         return estilos
 
     st.dataframe(
-        tabla_met.style.format({c: "{:.3f}" for c in ["Accuracy", "Precisión", "Recall", "F1", "ROC-AUC", "PR-AUC"]})
+        tabla_met.style.format({**{c: "{:.3f}" for c in ["Accuracy", "Precisión", "Recall", "F1", "ROC-AUC", "PR-AUC"]},
+                                "Tiempo (s)": "{:.2f}"})
                        .apply(resaltar_f1, subset=["F1"]),
         width="stretch", hide_index=True)
+    st.caption("El tiempo corresponde al entrenamiento de cada modelo. El balanceo con SMOTE mantiene un costo "
+               "bajo (Random Forest + SMOTE: 1,43 s) a cambio de un salto enorme en el recall.")
 
     st.subheader("Importancia de variables (modelo seleccionado)")
     imp = importancia.sort_values("importancia", ascending=True)
@@ -301,6 +353,24 @@ with tab_modelo:
     figI.update_traces(marker_color=AZUL)
     figI.update_layout(height=420, margin=dict(l=0, r=0, t=10, b=0))
     st.plotly_chart(figI, width="stretch")
+
+    st.markdown("---")
+    colAt, colCf = st.columns([1.4, 1])
+    with colAt:
+        st.subheader("Atributos del modelo")
+        st.caption("Variables predictoras del panel provincia × mes. Las numéricas se estandarizan y las "
+                   "categóricas se codifican (one-hot). `cluster_territorial` y `perfil_dominante` provienen "
+                   "de la etapa no supervisada.")
+        at = atributos.rename(columns={"atributo": "Atributo", "tipo": "Tipo",
+                                       "preprocesamiento": "Preprocesamiento", "descripcion": "Descripción"})
+        st.dataframe(at, width="stretch", hide_index=True, height=460)
+    with colCf:
+        st.subheader("Configuración")
+        st.caption("Hiperparámetros de cada modelo. Todos comparten el preprocesamiento, el balanceo con "
+                   "SMOTE (k_neighbors = 5, solo en entrenamiento) y la partición temporal "
+                   "(train 2017–2020 · test 2021–2022).")
+        cf = config_mod.rename(columns={"modelo": "Modelo", "hiperparametros": "Hiperparámetros"})
+        st.dataframe(cf, width="stretch", hide_index=True, height=200)
 
 
 # ----------------------------------------------------------------------------
@@ -315,4 +385,4 @@ st.markdown(
     '<b>(011) 5275-1135</b> o al <b>0800-345-1435</b>, todos los días.</div>',
     unsafe_allow_html=True)
 st.caption("Universidad Nacional de Salta · Licenciatura en Análisis de Sistemas · "
-           "Metodos Cuantitativos para la Toma de Decisiones · 2025")
+           "Métodos Cuantitativos para la Toma de Decisiones · 2026")

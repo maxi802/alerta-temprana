@@ -1,0 +1,13 @@
+atributo,tipo,preprocesamiento,descripcion
+lag1,Numérica,StandardScaler,Casos del mes anterior (t-1)
+lag2,Numérica,StandardScaler,Casos de dos meses atrás (t-2)
+lag3,Numérica,StandardScaler,Casos de tres meses atrás (t-3)
+roll3_mean,Numérica,StandardScaler,Promedio móvil de los últimos 3 meses
+roll3_std,Numérica,StandardScaler,Desvío estándar de los últimos 3 meses
+prop_masc,Numérica,StandardScaler,Proporción de víctimas masculinas
+prop_joven,Numérica,StandardScaler,Proporción de víctimas jóvenes
+edad_media,Numérica,StandardScaler,Edad media de las víctimas
+mes,Numérica,StandardScaler,Mes del año (estacionalidad)
+region,Categórica,OneHotEncoder,Región del INDEC
+cluster_territorial,Categórica,OneHotEncoder,Grupo territorial (no supervisado)
+perfil_dominante,Categórica,OneHotEncoder,Perfil de víctima predominante (K-Modes)

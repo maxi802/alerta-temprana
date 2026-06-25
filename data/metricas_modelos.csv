@@ -1,9 +1,9 @@
-modelo,usa_smote,accuracy,precision,recall,f1,roc_auc,pr_auc
-Regresión Logística,False,0.755,0.5,0.007,0.015,0.578,0.316
-Regresión Logística,True,0.551,0.26,0.452,0.33,0.526,0.284
-Random Forest,False,0.757,1.0,0.007,0.015,0.704,0.443
-Random Forest,True,0.679,0.379,0.489,0.427,0.68,0.371
-Gradient Boosting,False,0.754,0.471,0.059,0.105,0.703,0.395
-Gradient Boosting,True,0.716,0.42,0.43,0.425,0.705,0.409
-XGBoost,False,0.732,0.362,0.126,0.187,0.686,0.363
-XGBoost,True,0.741,0.46,0.341,0.391,0.715,0.419
+modelo,usa_smote,accuracy,precision,recall,f1,roc_auc,pr_auc,tiempo_seg
+Regresión Logística,False,0.755,0.5,0.007,0.015,0.577,0.316,0.099
+Regresión Logística,True,0.56,0.267,0.459,0.338,0.529,0.286,0.094
+Random Forest,False,0.757,1.0,0.007,0.015,0.7,0.434,1.109
+Random Forest,True,0.67,0.374,0.519,0.435,0.677,0.378,1.425
+Gradient Boosting,False,0.757,0.533,0.059,0.107,0.705,0.402,0.575
+Gradient Boosting,True,0.707,0.398,0.393,0.396,0.706,0.43,1.065
+XGBoost,False,0.732,0.362,0.126,0.187,0.686,0.363,0.608
+XGBoost,True,0.752,0.49,0.348,0.407,0.704,0.425,0.588

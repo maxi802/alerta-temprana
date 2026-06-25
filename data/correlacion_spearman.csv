@@ -1,0 +1,5 @@
+,grupo_etario,franja_horaria,mes,anio
+grupo_etario,1.0,0.024,-0.004,0.002
+franja_horaria,0.024,1.0,-0.008,-0.008
+mes,-0.004,-0.008,1.0,-0.012
+anio,0.002,-0.008,-0.012,1.0

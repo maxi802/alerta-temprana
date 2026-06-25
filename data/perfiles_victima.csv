@@ -1,0 +1,5 @@
+perfil,casos,sexo,grupo_etario,modalidad,tipo_lugar,franja_horaria,fin_de_semana
+P0,9794,Masculino,Adulto (30-44),Ahorcamiento,Domicilio particular,Tarde,No
+P1,4526,Masculino,Joven (18-29),Ahorcamiento,Domicilio particular,Mañana,No
+P2,2749,Masculino,Mayor (65+),Arma de fuego,Domicilio particular,Noche,No
+P3,3664,Masculino,Joven (18-29),Ahorcamiento,Domicilio particular,Mañana,Sí
